@@ -1,0 +1,804 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="fsn34531" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Food Sci Nutr</journal-id><journal-id journal-id-type="iso-abbrev">Food Sci Nutr</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2048-7177</journal-id><journal-id journal-id-type="publisher-id">FSN3</journal-id><journal-title-group><journal-title>Food Science &#x00026; Nutrition</journal-title></journal-title-group><issn pub-type="epub">2048-7177</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11876561</article-id><article-id pub-id-type="doi">10.1002/fsn3.4531</article-id><article-id pub-id-type="publisher-id">FSN34531</article-id><article-id pub-id-type="other">FSN3-2024-05-1477.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Determination of Antioxidant, Antidiabetic, Anticholinergic, Antiglaucoma Properties and Comprehensive Phytochemical Content by <styled-content style="fixed-case" toggle="no">LC</styled-content>&#x02010;<styled-content style="fixed-case" toggle="no">MS</styled-content>/<styled-content style="fixed-case" toggle="no">MS</styled-content> of Bing&#x000f6;l Honeybee Pollen</article-title></title-group><contrib-group><contrib id="fsn34531-cr-0001" contrib-type="author" corresp="yes"><name><surname>&#x00130;zol</surname><given-names>Ebubekir</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0788-4999</contrib-id><xref rid="fsn34531-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>eizol@bingol.edu.tr</email></address></contrib><contrib id="fsn34531-cr-0002" contrib-type="author"><name><surname>Turhan</surname><given-names>M&#x000fc;nire</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3373-1400</contrib-id><xref rid="fsn34531-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="fsn34531-cr-0003" contrib-type="author"><name><surname>Y&#x00131;lmaz</surname><given-names>Mustafa Abdullah</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4090-7227</contrib-id><xref rid="fsn34531-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="fsn34531-cr-0004" contrib-type="author"><name><surname>&#x000c7;a&#x0011f;layan</surname><given-names>C&#x000fc;neyt</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5608-554X</contrib-id><xref rid="fsn34531-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="fsn34531-cr-0005" contrib-type="author"><name><surname>G&#x000fc;l&#x000e7;in</surname><given-names>&#x00130;lhami</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5993-1668</contrib-id><xref rid="fsn34531-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="fsn34531-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Bee and Natural Products R&#x00026;D and P&#x00026;D Application and Research Center</named-content>
+<institution>Bing&#x000f6;l University</institution>
+<city>Bing&#x000f6;l</city>
+<country country="TR">T&#x000fc;rkiye</country>
+</aff><aff id="fsn34531-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Agriculture, Vocational School of Food, Agriculture and Livestock</named-content>
+<institution>Bing&#x000f6;l University</institution>
+<city>Bing&#x000f6;l</city>
+<country country="TR">T&#x000fc;rkiye</country>
+</aff><aff id="fsn34531-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmaceutical Chemistry, Faculty of Pharmacy</named-content>
+<institution>Dicle University</institution>
+<city>Diyarbak&#x00131;r</city>
+<country country="TR">T&#x000fc;rkiye</country>
+</aff><aff id="fsn34531-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Biochemistry, Faculty of Medicine</named-content>
+<institution>Bilecik &#x0015e;eyh Edebali University</institution>
+<city>Bilecik</city>
+<country country="TR">T&#x000fc;rkiye</country>
+</aff><aff id="fsn34531-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Chemistry, Faculty of Science</named-content>
+<institution>Ataturk University</institution>
+<city>Erzurum</city>
+<country country="TR">T&#x000fc;rkiye</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Ebubekir &#x00130;zol (<email>eizol@bingol.edu.tr</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>3</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2025</year></pub-date><volume>13</volume><issue seq="140">3</issue><issue-id pub-id-type="doi">10.1002/fsn3.v13.3</issue-id><elocation-id>e4531</elocation-id><history>
+<date date-type="rev-recd"><day>21</day><month>8</month><year>2024</year></date>
+<date date-type="received"><day>26</day><month>5</month><year>2024</year></date>
+<date date-type="accepted"><day>26</day><month>9</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 The Authors. Food Science & Nutrition published by Wiley Periodicals LLC.--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Food Science &#x00026; Nutrition</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:FSN3-13-e4531.pdf"/><abstract><title>ABSTRACT</title><p>Honeybee pollen is the most important food and protein source for bees. It is a highly nutritious natural product for humans due to its content. Pollen shows different phytochemical content and variable biological activity according to different geography and vegetation. Therefore, in this study, the comprehensive phytochemical content by LC&#x02010;MS/MS, and its antioxidant properties by different assays, with enzyme inhibition potential; antidiabetic, anticholinergic, and antiglaucoma properties, were determined from a pollen sample from Bing&#x000f6;l province, one of the significant beekeeping centers in T&#x000fc;rkiye. As a result of LC&#x02010;MS/MS, 15 metabolites were determined, and the highest concentration of quinic acid (1.531&#x02009;mg analyte/g extract) was found. Antioxidant results: total phenolic content 113.14&#x02009;mg GAE/g, total flavonoid content 64.11&#x02009;mg QE/g, Fe<sup>3+</sup> reduction 0.43&#x02009;&#x003bc;g/mL, CUPRAC 0.511&#x02009;&#x003bc;g/mL, FRAP 0.976&#x02009;&#x003bc;g/mL, DPPH IC<sub>50</sub>: 1.06&#x02009;&#x003bc;g/mL, ABTS IC<sub>50</sub>: 0.933&#x02009;&#x003bc;g/mL, and DMPD IC<sub>50</sub>: 0.598&#x02009;&#x003bc;g/mL. In addition, pollen showed antiglaucoma, anticholinergic, and antidiabetic properties by inhibiting carbonic anhydrase isoenzyme II (hCA II), acetylcholinesterase (AChE), and &#x003b1;&#x02010; amylase enzymes, respectively. In this study, it was determined that Bing&#x000f6;l pollen has a comprehensive phytochemical content and antioxidant properties and, for the first time, inhibits hCA II, AChE, and &#x003b1;&#x02010;amylase enzymes.</p></abstract><abstract abstract-type="graphical"><p>Phytochemical content and comprehensive biological activities of Bing&#x000f6;l bee pollen were determined for the first time in this study. Enzyme inhibition and antioxidant studies are valuable.<boxed-text position="anchor" content-type="graphic" id="fsn34531-blkfxd-0001"><graphic xlink:href="FSN3-13-e4531-g001.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="fsn34531-kwd-0001">anticholinergic</kwd><kwd id="fsn34531-kwd-0002">antidiabetic</kwd><kwd id="fsn34531-kwd-0003">antiglaucoma</kwd><kwd id="fsn34531-kwd-0004">antioxidant</kwd><kwd id="fsn34531-kwd-0005">bee pollen</kwd><kwd id="fsn34531-kwd-0006">phytochemical content</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>T&#x000fc;rkiye Bilimsel ve Teknolojik Ara&#x0015f;t&#x00131;rma Kurumu
+</institution><institution-id institution-id-type="doi">10.13039/501100004410</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="6"/><page-count count="11"/><word-count count="7100"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:04.03.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="fsn34531-ntgp-0001"><fn fn-type="funding" id="fsn34531-note-0001"><p>
+<bold>Funding:</bold> This work was supported by T&#x000fc;rkiye Bilimsel ve Teknolojik Ara&#x0015f;t&#x00131;rma Kurumu.</p></fn></fn-group></notes></front><body id="fsn34531-body-0001"><sec id="fsn34531-sec-0001"><label>1</label><title>Introduction</title><p>Bee pollen is the substance that bees collect from the male seminal organ in flowers on their feet, pelletize with digestive enzymes, and accumulate in the hive (Taha et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0047" ref-type="bibr">2024</xref>). Bee pollen is necessary to meet the basic nutritional needs of honey bees, especially protein, lipid, sterol, vitamin, and mineral substances (Kolayli et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0033" ref-type="bibr">2024</xref>). Bee pollen is a balanced food not only for bees but also for humans. It contains protein (10%&#x02013;40%), lipids (1%&#x02013;12%), carbohydrates (13%&#x02013;55%), fiber (0.3%&#x02013;20%), mineral substances (0.2%&#x02013;3.0%), and other organic compounds. It also contains all essential amino acids and fatty acids, B vitamins, carotenoids, and many different polyphenols, as well as important sugars such as fructose, glucose, sucrose, maltose, isomaltose, arabinose, melibiose, trehalose, and starch (Glavnik et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0014" ref-type="bibr">2024</xref>). Due to its excellent nutritional properties and therapeutic functions, it is one of the most natural food supplements for athletes, children, the elderly and malnourished individuals (El&#x02010;Seedi et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0011" ref-type="bibr">2022</xref>). Bee pollen consumption is also reported to be beneficial to human health as it is effective against immune system strengthening (M&#x000fc;nstedt et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0039" ref-type="bibr">2015</xref>), cancer and allergic diseases (Denisow and Denisow&#x02010;Pietrzyk&#x000a0;<xref rid="fsn34531-bib-0007" ref-type="bibr">2016</xref>), skin diseases and liver damage (Liang et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0035" ref-type="bibr">2020</xref>), prostatitis (Denisow and Denisow&#x02010;Pietrzyk&#x000a0;<xref rid="fsn34531-bib-0007" ref-type="bibr">2016</xref>), diabetes (Lima, Brito, and da Cruz Nizer&#x000a0;<xref rid="fsn34531-bib-0036" ref-type="bibr">2021</xref>), immune system damage, and infectious diseases, as well as improving ovarian function and improving neuroinflammation (Saral et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0044" ref-type="bibr">2022</xref>). In general, in&#x000a0;vivo and in&#x000a0;vitro scientific studies have shown that bee pollen exhibits good antioxidant, antiviral, anti&#x02010;inflammatory, and antitumoral properties (Silveira et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0045" ref-type="bibr">2024</xref>; &#x000c7;obano&#x0011f;lu&#x000a0;<xref rid="fsn34531-bib-0006" ref-type="bibr">2024</xref>). However, it has also been shown that all these biological activities vary depending on the specific structure of the pollen. Bee pollen is a natural product with high nutritional and medicinal value. This is due to its protein, mineral, and polyphenolic components (Dos Santos et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0009" ref-type="bibr">2024</xref>).</p><p>Antioxidants are substances that do not form radicals by removing free radicals and oxidative stress (G&#x000fc;lcin&#x000a0;<xref rid="fsn34531-bib-0016" ref-type="bibr">2012</xref>). Antioxidants act as pioneers in the treatment of diseases and are used in the treatment of more than a hundred diseases (Gulcin&#x000a0;<xref rid="fsn34531-bib-0017" ref-type="bibr">2020</xref>; Karagecili et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0029" ref-type="bibr">2023</xref>; Karage&#x000e7;ili et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0030" ref-type="bibr">2023</xref>). Due to the damages caused by synthetic antioxidants, intensive studies have been carried out to determine natural antioxidants (Yilmaz et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0051" ref-type="bibr">2023</xref>). They are also effective in the protection of food because they prevent oxidation (G&#x000fc;l&#x000e7;in et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0022" ref-type="bibr">2020</xref>). For this reason, it is important to determine the antioxidant properties of Bing&#x000f6;l pollen.</p><p>Enzymes such as antioxidants play important roles in the treatment of diseases. hCA II enzyme has been found to be associated with glaucoma disease (&#x000d6;zaslan et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0042" ref-type="bibr">2022</xref>; Inci et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0025" ref-type="bibr">2023</xref>), AChE with Alzheimer's disease (Izol et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0026" ref-type="bibr">2021</xref>; Tokal&#x00131; et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0049" ref-type="bibr">2023</xref>) and &#x003b1;&#x02010;amylase enzyme with diabetes (Kiziltas et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0032" ref-type="bibr">2022</xref>), and these enzymes are used in the treatment of these diseases. Therefore, it is very important to determine the phytochemical content of pollen, a natural bee product, and the inhibition potential of these enzymes.</p><p>In this study, the phytochemical content by LC&#x02010;MS/MS, some metabolic enzyme inhibition (AChE, hCA II, and &#x003b1;&#x02010;amylase) and antioxidant activities of pollen obtained from Bing&#x000f6;l, an important beekeeping city in T&#x000fc;rkiye, were determined for the first time in such a comprehensive manner. The anti&#x02010;Alzheimer's disease, antiglaucoma and antidiabetic properties and antioxidant potential of such Bing&#x000f6;l pollen were determined by different methods. In addition, its phytochemical content was screened with 53 different components and found to contain important polyphenols.</p></sec><sec sec-type="materials-and-methods" id="fsn34531-sec-0002"><label>2</label><title>Materials And Methods</title><sec id="fsn34531-sec-0003"><label>2.1</label><title>Chemicals</title><p>Standard phytochemical substances were purchased from Sigma&#x02010;Aldrich (Steinheim, Germany) for use in LC&#x02010;MS/MS analysis. Commercial purchases of standards and other chemicals were made from Sigma&#x02010;Aldrich Chemie GmbH (Steinheim, Germany) for use in antioxidant and enzyme experiments. The hCA II enzyme was purified by Izol using human erythrocytes and the Sepharose&#x02010;4B tyrosine&#x02010;sulfanilamide affinity column method (Inci et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0025" ref-type="bibr">2023</xref>).</p></sec><sec id="fsn34531-sec-0004"><label>2.2</label><title>Extraction of Pollen</title><p>Pollen was obtained from Bing&#x000f6;l province, which has important beekeeping activities in T&#x000fc;rkiye. The coordinate of Bing&#x000f6;l province is 39&#x000b0;02&#x02032;28&#x02033;&#x02009;N 40&#x000b0;40&#x02032;33&#x02033;D. Pollen collected from the hive was dried in a dark and cool environment. Then, 45&#x02009;mL of 70% ethanol solvent was added to 15&#x02009;g of pollen and mixed for 3&#x02009;days, and extraction was performed by the maceration method. The solvent was removed from the pollen and mixed in the erlene with a rotary evaporator, and the extract was dried. The extraction yield was calculated as 13%. A stock solution was prepared from the dried extract, and this solution was used in the studies. The concentration of the extracts was adjusted as 1&#x02009;mg/mL.</p></sec><sec id="fsn34531-sec-0005"><label>2.3</label><title>Determination of Comprehensive Phytochemical Content by <styled-content style="fixed-case" toggle="no">LC</styled-content>&#x02010;<styled-content style="fixed-case" toggle="no">MS</styled-content>/<styled-content style="fixed-case" toggle="no">MS</styled-content>
+</title><p>Chromatographic methods have been used to determine the phytochemical content of pollen, and LC&#x02010;MS/MS is one of the most efficient methods and gives results even at low concentrations (Aziza et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0004" ref-type="bibr">2024</xref>). The phytochemical content of the pollen extract was determined by LC&#x02010;MS/MS using a validated method (Yilmaz&#x000a0;<xref rid="fsn34531-bib-0050" ref-type="bibr">2020</xref>). Fifty&#x02010;three phytochemicals were quantitatively analyzed in this assay using a Shimadzu&#x02010;Nexera model ultra&#x02010;high performance liquid chromatography (UHPLC) in conjunction with a tandem mass spectrometer. The brand of the device is Shimadzu LCMS&#x02010;8040. LabSolutions (Shimadzu) was used as software. The mobile phase (B) was acetonitrile and methanol. The solvent flow rate was 0.5&#x02009;mL/min, and the injection volume was 5&#x02009;&#x003bc;L. Analytical parameters are included in the reference method. The pollen extract was dissolved in 5&#x02009;mg/mL methanol in an ultrasonic water bath, filtered with Whatman filter paper, added to the LC&#x02010;MS/MS vial, and analyzed. Analyses were performed in negative mode.</p></sec><sec id="fsn34531-sec-0006"><label>2.4</label><title>Total Phenolic and Flavonoid Contents</title><p>Total phenolic and flavonoid contents of pollen extract were determined in accordance with a previous study (Inci et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0025" ref-type="bibr">2023</xref>). To determine the total phenolic content, the extract (0.5&#x02009;mL) was mixed with 1.0&#x02009;mL folin&#x02013;ciocalteu solution and 0.5&#x02009;mL 1% Na<sub>2</sub>CO<sub>3</sub>. The absorbance of the mixtures was measured at 725&#x02009;nm after 2&#x02009;h at room temperature. Total phenolic content was calculated using milligrams of gallic acid equivalent (GAE) as reference.</p><p>Distilled water (2.3&#x02009;mL), potassium acetate (0.5&#x02009;mL, 1.0&#x02009;M), aluminum chloride (1.5&#x02009;mL, 10%), and ethanol (1.5&#x02009;mL, 95%) were added to the pollen stock solution (0.5&#x02009;mL) to determine the total flavonoid content. The combinations were incubated at room temperature for 30&#x02009;min before absorbance measurement at 415&#x02009;nm. Quercetin was used as a standard, and total flavonoid levels were reported as milligrams of quercetin equivalent (QE) per gram of pollen extract.</p></sec><sec id="fsn34531-sec-0007"><label>2.5</label><title>Radical Scavenging Assays</title><sec id="fsn34531-sec-0008"><label>2.5.1</label><title>
+<styled-content style="fixed-case" toggle="no">ABTS</styled-content>
+<sup>&#x02022;+</sup> Scavenging Ability Assays</title><p>Pollen extract was found to have the ability to scavenge 2,2&#x02032;&#x02010;azino&#x02010;bis (3&#x02010;ethylbenzothiazoline&#x02010;sulfonic acid) (ABTS) radicals using Gulcin's technique (G&#x000fc;l&#x000e7;in et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0022" ref-type="bibr">2020</xref>). In short, K<sub>2</sub>S<sub>2</sub>0<sub>8</sub> (2.5&#x02009;mM) oxidized an aqueous solution of ABTS (7.0&#x02009;mM) to yield the radical cation (ABTS<sup>&#x02022;+</sup>). A phosphate buffer (0.1&#x02009;M, pH&#x02009;7.4) was used to dilute the ABTS<sup>&#x02022;+</sup> solution before use, and the absorbance value of the control was calibrated to 0.750&#x02009;&#x000b1;&#x02009;0.025 at 734&#x02009;nm. Then, 3&#x02009;mL of pollen stock solution was mixed with 1&#x02009;mL of ABTS<sup>&#x02022;+</sup> solution at various concentrations (20&#x02013;60&#x02009;&#x003bc;g/mL). At 734&#x02009;nm, the absorbance of ABTS<sup>&#x02022;+</sup> was measured following a 30&#x02010;min incubation period (Re et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0043" ref-type="bibr">1999</xref>).</p></sec><sec id="fsn34531-sec-0009"><label>2.5.2</label><title>
+<styled-content style="fixed-case" toggle="no">DPPH</styled-content>
+<sup>&#x02022;</sup> Scavenging Ability Assays</title><p>Using the Blois method, the 1,1&#x02010;diphenyl&#x02010;2&#x02010;picrylhydrazyl (DPPH&#x02219;) scavenging effect of pollen was determined (Blois&#x000a0;<xref rid="fsn34531-bib-0005" ref-type="bibr">1958</xref>). To do this, pollen stock solutions were mixed with 1&#x02009;mL of blue&#x02010;colored DPPH&#x02219; solution (0.1&#x02009;mM) produced in ethanol at varying concentrations (20&#x02013;60&#x02009;&#x003bc;g/mL). After 30&#x02009;min of room temperature incubation, absorbance readings at 517&#x02009;nm were measured.</p></sec><sec id="fsn34531-sec-0010"><label>2.5.3</label><title>
+<styled-content style="fixed-case" toggle="no">DMPD</styled-content>
+<sup>&#x02022;+</sup> Scavenging Ability Assays</title><p>With a few minor adjustments, the N,N&#x02010;dimethyl&#x02010;phenylenediamine (DMPD) radical scavenging capacity of pollen was assessed using the methodology of Fogliano et&#x000a0;al.&#x000a0;(<xref rid="fsn34531-bib-0012" ref-type="bibr">1999</xref>) as described previously (G&#x000fc;l&#x000e7;in&#x000a0;<xref rid="fsn34531-bib-0015" ref-type="bibr">2008</xref>). Antioxidant substances can transfer a hydrogen atom to DMPD<sup>&#x02022;+</sup> in the presence of Fe<sup>3+</sup>, which causes the solution to become less colored, as indicated by a drop in absorbance at 505&#x02009;nm. The DMPD (100&#x02009;mM) was created by dissolving 209&#x02009;mg of DMPD in 10&#x02009;mL of deionized water. Then, 1&#x02009;mL of this solution was added to 100&#x02009;mL of 0.1&#x02009;M acetate buffer (pH&#x02009;5.25), and 0.2&#x02009;mL of a 0.05&#x02009;M ferric chloride (FeCl<sub>3</sub>) solution was added to obtain the colored radical cation (DMPD<sup>&#x02022;+</sup>). This solution is made fresh every day and has a consistent absorbance for up to 12&#x02009;h at room temperature. Test tubes were filled with several amounts of pollen (20&#x02013;60&#x02009;&#x003bc;g/mL) or conventional antioxidants, and the total volume was brought down to 0.5&#x02009;mL using distilled water. The absorbance was measured at 505&#x02009;nm 10&#x02009;min later. After adding 1&#x02009;mL of DMPD<sup>&#x02022;+</sup> solution straight to the reaction mixture, the absorbance at 505&#x02009;nm was calculated. As a blank sample, the buffer solution was employed. Calculations were made with the formula given in the previous study (G&#x000fc;l&#x000e7;in et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0021" ref-type="bibr">2010</xref>).</p></sec><sec id="fsn34531-sec-0011"><label>2.5.4</label><title>Determination of <styled-content style="fixed-case" toggle="no">IC<sub>50</sub>
+</styled-content> Values</title><p>The half maximal scavenging concentrations values (IC<sub>50</sub>) were determined using plots of activity (%) versus of pollen. For this purpose, the required graphs were drawn corresponding to the amount of pollen against radicals (DPPH, ABTS<sup>&#x02022;+</sup>, or DMPD<sup>&#x02022;+</sup>) scavenging activity at least five different concentrations that would eliminate more than 50% of the existing radicals used in our study. Then, pollen concentrations causing 50% inhibition were calculated from the equations obtained from these graphs (Gul&#x000e7;in and Alwasel&#x000a0;<xref rid="fsn34531-bib-0019" ref-type="bibr">2022</xref>, <xref rid="fsn34531-bib-0020" ref-type="bibr">2023</xref>).</p></sec></sec><sec id="fsn34531-sec-0012"><label>2.6</label><title>Reducing Ability Assays</title><sec id="fsn34531-sec-0013"><label>2.6.1</label><title>Cu<sup>2+</sup> Reducing &#x02010;<styled-content style="fixed-case" toggle="no">CUPRAC</styled-content> Assay</title><p>By modifying the Apak method, the Cu<sup>2+</sup> reducing capability of pollen extract was ascertained. (Apak et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0003" ref-type="bibr">2008</xref>). First, standard antioxidant solutions were added to the tubes after the pollen stock solution was made at various concentrations (20&#x02013;60&#x02009;&#x003bc;L). Next, 125&#x02009;&#x003bc;L of CuCl<sub>2</sub>, 125&#x02009;&#x003bc;L of neocuproine solutions, and 125&#x02009;&#x003bc;L of CH<sub>3</sub>COONa (pH:6.5) buffer solution were transferred, in that order. Distilled water was poured into the tubes until a total volume of 1000&#x02009;&#x003bc;L was reached. Lastly, absorbance values at 450&#x02009;nm were measured following a half&#x02010;hour of darkness (Ak and G&#x000fc;l&#x000e7;in&#x000a0;<xref rid="fsn34531-bib-0002" ref-type="bibr">2008</xref>).</p></sec><sec id="fsn34531-sec-0014"><label>2.6.2</label><title>Fe<sup>3+</sup>&#x02010;Fe<sup>2+</sup> Reducing</title><p>Using a modification of the Oyaizu method, the Fe<sup>3+</sup>&#x02010;Fe<sup>2+</sup> reducing capability of pollen extract was determined (Oyaizu&#x000a0;<xref rid="fsn34531-bib-0041" ref-type="bibr">1986</xref>). Pollen extract was used to create standard antioxidant solutions in various quantities (20&#x02013;60&#x02009;&#x003bc;L) and a 1&#x02009;mg/mL stock solution for this purpose. One milliliter of phosphate buffer and 750&#x02009;&#x003bc;L of distilled water were added to each prepared test tube. Each tube was then filled with 1&#x02009;mL of [K<sub>3</sub>Fe(CN)<sub>6</sub>] (1%) and left in the dark (40&#x000b0;C) for 30&#x02009;min. Following the incubation period, 250&#x02009;mL of FeCl<sub>3</sub> (0.1%) and 1&#x02009;mL of TCA (10%) were added to the tubes and mixed. At 700&#x02009;nm, absorbance values were finally measured (G&#x000fc;l&#x000e7;in&#x000a0;<xref rid="fsn34531-bib-0018" ref-type="bibr">2007</xref>).</p></sec><sec id="fsn34531-sec-0015"><label>2.6.3</label><title>Fe<sup>3+</sup>&#x02010;<styled-content style="fixed-case" toggle="no">TPTZ</styled-content> Reducing &#x02010;<styled-content style="fixed-case" toggle="no">FRAP</styled-content> Assay</title><p>Ultimately, test tubes were filled with pollen stock and standard solutions that had been generated using the Fe<sup>3+</sup>&#x02010;TPTZ complex reducing ability method at various concentrations (20&#x02013;60&#x02009;&#x003bc;L) (Inci et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0025" ref-type="bibr">2023</xref>). Subsequently, the contents of these tubes were increased to 500&#x02009;&#x003bc;L using buffer solution, and 2250&#x02009;&#x003bc;L solutions of FeCl<sub>3</sub> and FRAP were added to every tube. After combining 5&#x02009;mL of tube material with a vortex and letting them sit in the dark for 30&#x02009;min, the absorbance values at 593&#x02009;nm were determined (Karagecili et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0029" ref-type="bibr">2023</xref>; Karage&#x000e7;ili et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0030" ref-type="bibr">2023</xref>).</p></sec></sec><sec id="fsn34531-sec-0016"><label>2.7</label><title>Enzyme Inhibition Assay</title><sec id="fsn34531-sec-0017"><label>2.7.1</label><title>
+<styled-content style="fixed-case" toggle="no">hCA II</styled-content> Enzyme Inhibition</title><p>Using sepharose&#x02010;4B&#x02010;L&#x02010;Tyrosine&#x02010;sulfanilamide affinity chromatography, the hCA II isoenzyme was isolated from human erythrocyte cells for this experiment. We have previously published the methods (Karagecili et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0029" ref-type="bibr">2023</xref>; Karage&#x000e7;ili et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0030" ref-type="bibr">2023</xref>). Acetazolamide, a common CA inhibitor, and its stock solution were evaluated at 25&#x000b0;C, 3&#x02009;min, and 348&#x02009;nm (Verpoorte, Mehta, and Edsall&#x000a0;<xref rid="fsn34531-bib-0053" ref-type="bibr">1967</xref>). Using an activity (%)&#x02010;compound plot, the extract CA inhibition potential was determined. The IC<sub>50</sub> value was calculated based on the activity (%) versus the compound plot.</p></sec><sec id="fsn34531-sec-0018"><label>2.7.2</label><title>
+<styled-content style="fixed-case" toggle="no">AChE</styled-content> Enzyme Inhibition</title><p>Sigma&#x02010;Aldrich Chemie GmbH served as the investigation's commercial source of AChE. The Ellman et&#x000a0;al.&#x000a0;(<xref rid="fsn34531-bib-0010" ref-type="bibr">1961</xref>) approach was used to conduct studies on the inhibition of these enzymes involved in the cholinergic breakdown processes and acetylcholine. Acetylthiocholine iodide (AChI) and 5,5&#x02032;&#x02010;dithiobis (2&#x02010;nitrobenzoic acid) (DTNB) were the substrates that were used. Spectrophotometric measurements were made at 412&#x02009;nm after the reaction components were prepared at different concentrations in the control and sample tubes. Inhibition types and IC<sub>50</sub> values were determined using the data that was gathered (Izol et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0026" ref-type="bibr">2021</xref>).</p></sec><sec id="fsn34531-sec-0019"><label>2.7.3</label><title>&#x003b1;&#x02010;Amylase Enzyme Inhibition</title><p>The &#x003b1;&#x02010;amylase activity was determined by the method of Xiao, Storms, and Tsang&#x000a0;(<xref rid="fsn34531-bib-0052" ref-type="bibr">2006</xref>). According to previous research (Taslimi and Gul&#x000e7;in&#x000a0;<xref rid="fsn34531-bib-0048" ref-type="bibr">2017</xref>) to prepare a starch solution for this paper, 6&#x02009;g starch was dissolved in 240&#x02009;mL 0.4&#x02009;M NaOH and boiled at 70&#x000b0;C for 25&#x02009;min. Finally, IC<sub>50</sub> was determined by determining absorbance values at 580&#x02009;nm.</p></sec></sec><sec id="fsn34531-sec-0020"><label>2.8</label><title>Statistical Analysis</title><p>Every experiment is run three times for each sample. The data, which are presented as the mean&#x02009;&#x000b1;&#x02009;SD (<italic toggle="yes">n</italic>&#x02009;=&#x02009;3), were analyzed using one&#x02010;way ANOVA and Tukey's post hoc test; <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05 was considered statistically significant.</p></sec></sec><sec id="fsn34531-sec-0021"><label>3</label><title>Results and Discussion</title><sec id="fsn34531-sec-0022"><label>3.1</label><title>Phytochemical Content Results by <styled-content style="fixed-case" toggle="no">LC</styled-content>&#x02010;<styled-content style="fixed-case" toggle="no">MS</styled-content>/<styled-content style="fixed-case" toggle="no">MS</styled-content>
+</title><p>The results of the quantitative content of 53 different phytochemical components of the pollen sample by LC&#x02010;MS/MS are given in Table&#x000a0;<xref rid="fsn34531-tbl-0001" ref-type="table">1</xref>. Since method validation data and analytical parameters are given in the reference method (Yilmaz&#x000a0;<xref rid="fsn34531-bib-0050" ref-type="bibr">2020</xref>), only retention time, molecular ions (m/z ratio) of standard analytes, fragment ions, coefficient of determination, limit of detection and limit of quantification, and concentrations of phytochemicals present in pollen are given in this table.</p><table-wrap position="float" id="fsn34531-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Results of phytochemical components by LC&#x02010;MS/MS of pollen sample (mg analyte/g extract).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">No</th><th align="center" valign="bottom" rowspan="1" colspan="1">Analyte</th><th align="center" valign="bottom" rowspan="1" colspan="1">Pollen</th><th align="center" valign="bottom" rowspan="1" colspan="1">R.T.</th><th align="center" valign="bottom" rowspan="1" colspan="1">M.I. (m/z)</th><th align="center" valign="bottom" rowspan="1" colspan="1">F.I. (m/z)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sup>2</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">LOD/LOQ (&#x003bc;g/L)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">Quinic acid</td><td align="center" valign="top" rowspan="1" colspan="1">1.531</td><td align="center" valign="top" rowspan="1" colspan="1">3.0</td><td align="center" valign="top" rowspan="1" colspan="1">190.8</td><td align="center" valign="top" rowspan="1" colspan="1">93.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.996</td><td align="center" valign="top" rowspan="1" colspan="1">25.7/33.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Fumaric aid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">3.9</td><td align="center" valign="top" rowspan="1" colspan="1">115.2</td><td align="center" valign="top" rowspan="1" colspan="1">40.9</td><td align="center" valign="top" rowspan="1" colspan="1">0.995</td><td align="center" valign="top" rowspan="1" colspan="1">135.7/167.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">Aconitic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">4.0</td><td align="center" valign="top" rowspan="1" colspan="1">172.8</td><td align="center" valign="top" rowspan="1" colspan="1">129.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.971</td><td align="center" valign="top" rowspan="1" colspan="1">16.4/31.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">Gallic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">4.4</td><td align="center" valign="top" rowspan="1" colspan="1">168.8</td><td align="center" valign="top" rowspan="1" colspan="1">79.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">13.2/17.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">Epigallocatechin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">6.7</td><td align="center" valign="top" rowspan="1" colspan="1">304.8</td><td align="center" valign="top" rowspan="1" colspan="1">219.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.998</td><td align="center" valign="top" rowspan="1" colspan="1">237.5/265.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">Protocatechuic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">6.8</td><td align="center" valign="top" rowspan="1" colspan="1">152.8</td><td align="center" valign="top" rowspan="1" colspan="1">108.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.957</td><td align="center" valign="top" rowspan="1" colspan="1">21.9/38.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">Catechin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">7.4</td><td align="center" valign="top" rowspan="1" colspan="1">288.8</td><td align="center" valign="top" rowspan="1" colspan="1">203.1</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">55.0/78.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">Gentisic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">8.3</td><td align="center" valign="top" rowspan="1" colspan="1">152.8</td><td align="center" valign="top" rowspan="1" colspan="1">109.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.997</td><td align="center" valign="top" rowspan="1" colspan="1">18.5/28.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">Chlorogenic acid</td><td align="center" valign="top" rowspan="1" colspan="1">0.028</td><td align="center" valign="top" rowspan="1" colspan="1">8.4</td><td align="center" valign="top" rowspan="1" colspan="1">353.0</td><td align="center" valign="top" rowspan="1" colspan="1">85.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.995</td><td align="center" valign="top" rowspan="1" colspan="1">13.1/17.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1">Protocatechuic aldehyde</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">8.5</td><td align="center" valign="top" rowspan="1" colspan="1">137.2</td><td align="center" valign="top" rowspan="1" colspan="1">92.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.996</td><td align="center" valign="top" rowspan="1" colspan="1">15.4/22.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="center" valign="top" rowspan="1" colspan="1">Tannic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">9.2</td><td align="center" valign="top" rowspan="1" colspan="1">182.8</td><td align="center" valign="top" rowspan="1" colspan="1">78.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">15.3/22.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="center" valign="top" rowspan="1" colspan="1">Epigallocatechin gallate</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">9.4</td><td align="center" valign="top" rowspan="1" colspan="1">457.0</td><td align="center" valign="top" rowspan="1" colspan="1">305.1</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">61.0/86.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="center" valign="top" rowspan="1" colspan="1">Cynarine</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">9.8</td><td align="center" valign="top" rowspan="1" colspan="1">515.0</td><td align="center" valign="top" rowspan="1" colspan="1">191.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">5.8/9.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="center" valign="top" rowspan="1" colspan="1">4&#x02010;OH Benzoic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">10.5</td><td align="center" valign="top" rowspan="1" colspan="1">137.2</td><td align="center" valign="top" rowspan="1" colspan="1">65.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">68.4/88.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="center" valign="top" rowspan="1" colspan="1">Epicatechin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">11.6</td><td align="center" valign="top" rowspan="1" colspan="1">289.0</td><td align="center" valign="top" rowspan="1" colspan="1">203.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.996</td><td align="center" valign="top" rowspan="1" colspan="1">139.6/161.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">16</td><td align="center" valign="top" rowspan="1" colspan="1">Vanillic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">11.8</td><td align="center" valign="top" rowspan="1" colspan="1">166.8</td><td align="center" valign="top" rowspan="1" colspan="1">108.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">141.9/164.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">17</td><td align="center" valign="top" rowspan="1" colspan="1">Caffeic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">12.1</td><td align="center" valign="top" rowspan="1" colspan="1">179.0</td><td align="center" valign="top" rowspan="1" colspan="1">134.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">7.7/9.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="center" valign="top" rowspan="1" colspan="1">Syringic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">12.6</td><td align="center" valign="top" rowspan="1" colspan="1">196.8</td><td align="center" valign="top" rowspan="1" colspan="1">166.9</td><td align="center" valign="top" rowspan="1" colspan="1">0.998</td><td align="center" valign="top" rowspan="1" colspan="1">82.3/104.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="center" valign="top" rowspan="1" colspan="1">Vanillin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">13.9</td><td align="center" valign="top" rowspan="1" colspan="1">153.1</td><td align="center" valign="top" rowspan="1" colspan="1">125.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.996</td><td align="center" valign="top" rowspan="1" colspan="1">24.5/30.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">Syringic aldehyde</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">14.6</td><td align="center" valign="top" rowspan="1" colspan="1">181.0</td><td align="center" valign="top" rowspan="1" colspan="1">151.1</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">19.7/28.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="center" valign="top" rowspan="1" colspan="1">Daidzine</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">15.2</td><td align="center" valign="top" rowspan="1" colspan="1">417.1</td><td align="center" valign="top" rowspan="1" colspan="1">199.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.996</td><td align="center" valign="top" rowspan="1" colspan="1">7.0/9.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="center" valign="top" rowspan="1" colspan="1">Epicatechin gallate</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">15.5</td><td align="center" valign="top" rowspan="1" colspan="1">441.0</td><td align="center" valign="top" rowspan="1" colspan="1">289.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.997</td><td align="center" valign="top" rowspan="1" colspan="1">19.5/28.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="center" valign="top" rowspan="1" colspan="1">Piceid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">17.2</td><td align="center" valign="top" rowspan="1" colspan="1">391.0</td><td align="center" valign="top" rowspan="1" colspan="1">135/106.9</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">13.8/17.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>&#x02010;Coumaric acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">17.8</td><td align="center" valign="top" rowspan="1" colspan="1">163.0</td><td align="center" valign="top" rowspan="1" colspan="1">93.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">25.9/34.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">25</td><td align="center" valign="top" rowspan="1" colspan="1">Ferulic acid&#x02010;D3&#x02010;IS</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td><td align="center" valign="top" rowspan="1" colspan="1">18.8</td><td align="center" valign="top" rowspan="1" colspan="1">196.2</td><td align="center" valign="top" rowspan="1" colspan="1">152.1</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">26</td><td align="center" valign="top" rowspan="1" colspan="1">Ferulic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">18.8</td><td align="center" valign="top" rowspan="1" colspan="1">192.8</td><td align="center" valign="top" rowspan="1" colspan="1">149.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">11.8/15.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">27</td><td align="center" valign="top" rowspan="1" colspan="1">Sinapic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">18.9</td><td align="center" valign="top" rowspan="1" colspan="1">222.8</td><td align="center" valign="top" rowspan="1" colspan="1">193.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">65.2/82.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">28</td><td align="center" valign="top" rowspan="1" colspan="1">Coumarin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">20.9</td><td align="center" valign="top" rowspan="1" colspan="1">146.9</td><td align="center" valign="top" rowspan="1" colspan="1">103.1</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">214.2/247.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">29</td><td align="center" valign="top" rowspan="1" colspan="1">Salicylic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">21.8</td><td align="center" valign="top" rowspan="1" colspan="1">137.2</td><td align="center" valign="top" rowspan="1" colspan="1">65.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">6.0/8.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">Cyranoside</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">23.7</td><td align="center" valign="top" rowspan="1" colspan="1">447.0</td><td align="center" valign="top" rowspan="1" colspan="1">284.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.997</td><td align="center" valign="top" rowspan="1" colspan="1">12.1/16.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">Miquelianin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">24.1</td><td align="center" valign="top" rowspan="1" colspan="1">477.0</td><td align="center" valign="top" rowspan="1" colspan="1">150.9</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">10.6/14.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">32</td><td align="center" valign="top" rowspan="1" colspan="1">Rutin&#x02010;D3&#x02010;IS</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td><td align="center" valign="top" rowspan="1" colspan="1">25.5</td><td align="center" valign="top" rowspan="1" colspan="1">612.2</td><td align="center" valign="top" rowspan="1" colspan="1">304.1</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">33</td><td align="center" valign="top" rowspan="1" colspan="1">Rutin</td><td align="center" valign="top" rowspan="1" colspan="1">0.042</td><td align="center" valign="top" rowspan="1" colspan="1">25.6</td><td align="center" valign="top" rowspan="1" colspan="1">608.9</td><td align="center" valign="top" rowspan="1" colspan="1">301.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">15.7/22.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">34</td><td align="center" valign="top" rowspan="1" colspan="1">Isoquercitrin</td><td align="center" valign="top" rowspan="1" colspan="1">0.028</td><td align="center" valign="top" rowspan="1" colspan="1">25.6</td><td align="center" valign="top" rowspan="1" colspan="1">463.0</td><td align="center" valign="top" rowspan="1" colspan="1">271.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.998</td><td align="center" valign="top" rowspan="1" colspan="1">8.7/13.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">35</td><td align="center" valign="top" rowspan="1" colspan="1">Hesperidin</td><td align="center" valign="top" rowspan="1" colspan="1">0.063</td><td align="center" valign="top" rowspan="1" colspan="1">25.8</td><td align="center" valign="top" rowspan="1" colspan="1">611.2</td><td align="center" valign="top" rowspan="1" colspan="1">449.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">19.0/26.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">36</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">o</italic>&#x02010;Coumaric acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">26.1</td><td align="center" valign="top" rowspan="1" colspan="1">162.8</td><td align="center" valign="top" rowspan="1" colspan="1">93.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">31.8/40.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">37</td><td align="center" valign="top" rowspan="1" colspan="1">Genistin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">26.3</td><td align="center" valign="top" rowspan="1" colspan="1">431.0</td><td align="center" valign="top" rowspan="1" colspan="1">239.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.991</td><td align="center" valign="top" rowspan="1" colspan="1">14.9/21.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">38</td><td align="center" valign="top" rowspan="1" colspan="1">Rosmarinic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">26.6</td><td align="center" valign="top" rowspan="1" colspan="1">359.0</td><td align="center" valign="top" rowspan="1" colspan="1">197.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">16.2/21.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">39</td><td align="center" valign="top" rowspan="1" colspan="1">Ellagic acid</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">27.6</td><td align="center" valign="top" rowspan="1" colspan="1">301.0</td><td align="center" valign="top" rowspan="1" colspan="1">284.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">56.9/71.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">40</td><td align="center" valign="top" rowspan="1" colspan="1">Cosmosiin</td><td align="center" valign="top" rowspan="1" colspan="1">0.006</td><td align="center" valign="top" rowspan="1" colspan="1">28.2</td><td align="center" valign="top" rowspan="1" colspan="1">431.0</td><td align="center" valign="top" rowspan="1" colspan="1">269.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.998</td><td align="center" valign="top" rowspan="1" colspan="1">6.3/9.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">41</td><td align="center" valign="top" rowspan="1" colspan="1">Quercitrin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">29.8</td><td align="center" valign="top" rowspan="1" colspan="1">447.0</td><td align="center" valign="top" rowspan="1" colspan="1">301.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">4.8/6.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">42</td><td align="center" valign="top" rowspan="1" colspan="1">Astragalin</td><td align="center" valign="top" rowspan="1" colspan="1">0.177</td><td align="center" valign="top" rowspan="1" colspan="1">30.4</td><td align="center" valign="top" rowspan="1" colspan="1">447.0</td><td align="center" valign="top" rowspan="1" colspan="1">255.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">6.6/8.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">43</td><td align="center" valign="top" rowspan="1" colspan="1">Nicotiflorin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">30.6</td><td align="center" valign="top" rowspan="1" colspan="1">592.9</td><td align="center" valign="top" rowspan="1" colspan="1">255.0/284.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">11.9/16.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">44</td><td align="center" valign="top" rowspan="1" colspan="1">Fisetin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">30.6</td><td align="center" valign="top" rowspan="1" colspan="1">285.0</td><td align="center" valign="top" rowspan="1" colspan="1">163.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">10.1/12.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">45</td><td align="center" valign="top" rowspan="1" colspan="1">Daidzein</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">34.0</td><td align="center" valign="top" rowspan="1" colspan="1">253.0</td><td align="center" valign="top" rowspan="1" colspan="1">223.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">9.8/11.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">46</td><td align="center" valign="top" rowspan="1" colspan="1">Quercetin&#x02010;D3&#x02010;IS</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td><td align="center" valign="top" rowspan="1" colspan="1">35.6</td><td align="center" valign="top" rowspan="1" colspan="1">304.0</td><td align="center" valign="top" rowspan="1" colspan="1">275.9</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">47</td><td align="center" valign="top" rowspan="1" colspan="1">Quercetin</td><td align="center" valign="top" rowspan="1" colspan="1">0.008</td><td align="center" valign="top" rowspan="1" colspan="1">35.7</td><td align="center" valign="top" rowspan="1" colspan="1">301.0</td><td align="center" valign="top" rowspan="1" colspan="1">272.9</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">15.5/19.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">48</td><td align="center" valign="top" rowspan="1" colspan="1">Naringenin</td><td align="center" valign="top" rowspan="1" colspan="1">0.081</td><td align="center" valign="top" rowspan="1" colspan="1">35.9</td><td align="center" valign="top" rowspan="1" colspan="1">270.9</td><td align="center" valign="top" rowspan="1" colspan="1">119.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">2.6/3.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">49</td><td align="center" valign="top" rowspan="1" colspan="1">Hesperetin</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">36.7</td><td align="center" valign="top" rowspan="1" colspan="1">301.0</td><td align="center" valign="top" rowspan="1" colspan="1">136.0/286.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">7.1/9.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">50</td><td align="center" valign="top" rowspan="1" colspan="1">Luteolin</td><td align="center" valign="top" rowspan="1" colspan="1">0.049</td><td align="center" valign="top" rowspan="1" colspan="1">36.7</td><td align="center" valign="top" rowspan="1" colspan="1">284.8</td><td align="center" valign="top" rowspan="1" colspan="1">151.0/175.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">2.6/4.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">Genistein</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">36.9</td><td align="center" valign="top" rowspan="1" colspan="1">269.0</td><td align="center" valign="top" rowspan="1" colspan="1">135.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">3.7/5.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">52</td><td align="center" valign="top" rowspan="1" colspan="1">Kaempferol</td><td align="center" valign="top" rowspan="1" colspan="1">0.009</td><td align="center" valign="top" rowspan="1" colspan="1">37.9</td><td align="center" valign="top" rowspan="1" colspan="1">285.0</td><td align="center" valign="top" rowspan="1" colspan="1">239.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">10.2/15.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">53</td><td align="center" valign="top" rowspan="1" colspan="1">Apigenin</td><td align="center" valign="top" rowspan="1" colspan="1">0.018</td><td align="center" valign="top" rowspan="1" colspan="1">38.2</td><td align="center" valign="top" rowspan="1" colspan="1">268.8</td><td align="center" valign="top" rowspan="1" colspan="1">151.0/149.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.998</td><td align="center" valign="top" rowspan="1" colspan="1">1.3/2.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">54</td><td align="center" valign="top" rowspan="1" colspan="1">Amentoflavone</td><td align="center" valign="top" rowspan="1" colspan="1">0.055</td><td align="center" valign="top" rowspan="1" colspan="1">39.7</td><td align="center" valign="top" rowspan="1" colspan="1">537.0</td><td align="center" valign="top" rowspan="1" colspan="1">417.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.992</td><td align="center" valign="top" rowspan="1" colspan="1">2.8/5.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">55</td><td align="center" valign="top" rowspan="1" colspan="1">Chrysin</td><td align="center" valign="top" rowspan="1" colspan="1">0.019</td><td align="center" valign="top" rowspan="1" colspan="1">40.5</td><td align="center" valign="top" rowspan="1" colspan="1">252.8</td><td align="center" valign="top" rowspan="1" colspan="1">145.0/119.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.999</td><td align="center" valign="top" rowspan="1" colspan="1">1.5/2.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">56</td><td align="center" valign="top" rowspan="1" colspan="1">Acacetin</td><td align="center" valign="top" rowspan="1" colspan="1">0.128</td><td align="center" valign="top" rowspan="1" colspan="1">40.7</td><td align="center" valign="top" rowspan="1" colspan="1">283.0</td><td align="center" valign="top" rowspan="1" colspan="1">239.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.997</td><td align="center" valign="top" rowspan="1" colspan="1">1.5/2.5</td></tr></tbody></table><table-wrap-foot id="fsn34531-ntgp-0002"><fn id="fsn34531-note-0002"><p>Abbreviations: &#x02010;, Not detected; D3, deuterium isotope 3; FI (<italic toggle="yes">m/z</italic>), fragment ions; IS, internal standard; <italic toggle="yes">LOD</italic>/<italic toggle="yes">LOQ</italic> (&#x003bc;g/L), Limit of detection/quantification; M.I. (<italic toggle="yes">m/z</italic>), Molecular ions of the standard analytes (m/z ratio); N.A., not applicable; R.T., retention time; <italic toggle="yes">r</italic>
+<sup>
+<italic toggle="yes">2</italic>
+</sup>, coefficient of determination.</p></fn></table-wrap-foot></table-wrap><p>LC&#x02010;MS/MS chromatograms of standard phytochemicals and pollen are given in Figure&#x000a0;<xref rid="fsn34531-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="fsn34531-fig-0001"><label>FIGURE 1</label><caption><p>LC&#x02010;MS/MS chromatogram of standard phytochemicals and pollen.</p></caption><graphic xlink:href="FSN3-13-e4531-g014" position="anchor" id="jats-graphic-3"/></fig><p>In the pollen sample, 15 components of 53 different phytochemicals were quantitatively determined. Other components could not be detected because they were below the limit of determination. The highest concentration of quinic acid (1.531&#x02009;mg analyte/g extract) was determined. In general, the phytochemical content of the pollen was not very rich. The chemical forms of the identified compounds are shown in Table&#x000a0;<xref rid="fsn34531-tbl-0002" ref-type="table">2</xref>.</p><table-wrap position="float" id="fsn34531-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Chemical formula of phytochemicals found in pollen.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><tbody valign="top"><tr><td align="left" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g012.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g007.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g010.jpg" xlink:title="image"/>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g017.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g002.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g019.jpg" xlink:title="image"/>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g005.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g011.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g016.jpg" xlink:title="image"/>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g003.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g018.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g004.jpg" xlink:title="image"/>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g006.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g013.jpg" xlink:title="image"/>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<inline-graphic xlink:href="FSN3-13-e4531-g015.jpg" xlink:title="image"/>
+</td></tr></tbody></table></table-wrap></sec><sec id="fsn34531-sec-0023"><label>3.2</label><title>Total Phenolic and Flavonoid Content Result</title><p>The results of the total phenolic and total flavonoid content of pollen extract are given in Table&#x000a0;<xref rid="fsn34531-tbl-0003" ref-type="table">3</xref>. The standard calibration graph of the total phenolic amount is given in Figure&#x000a0;<xref rid="fsn34531-fig-0002" ref-type="fig">2</xref>, and the standard calibration graph of the total flavonoid amount is given in Figure&#x000a0;<xref rid="fsn34531-fig-0003" ref-type="fig">3</xref>.</p><table-wrap position="float" id="fsn34531-tbl-0003" content-type="TABLE"><label>TABLE 3</label><caption><p>Total phenolic and flavonoid content results of the pollen.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Sample</th><th align="center" valign="bottom" rowspan="1" colspan="1">Pollen</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Total phenolics (mg GAE/g)</td><td align="center" valign="top" rowspan="1" colspan="1">113.14&#x02009;&#x000b1;&#x02009;3.21</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total flavonoids (mg QE/g)</td><td align="center" valign="top" rowspan="1" colspan="1">64.11&#x02009;&#x000b1;&#x02009;1.13</td></tr></tbody></table><table-wrap-foot id="fsn34531-ntgp-0003"><fn id="fsn34531-note-0003"><p>
+<italic toggle="yes">Note:</italic> The results are given as the mean of three repetitions and&#x02009;&#x000b1;&#x02009;standard deviation.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="fsn34531-fig-0002"><label>FIGURE 2</label><caption><p>Total phenolic content standard calibration curve graph.</p></caption><graphic xlink:href="FSN3-13-e4531-g008" position="anchor" id="jats-graphic-5"/></fig><fig position="float" fig-type="FIGURE" id="fsn34531-fig-0003"><label>FIGURE 3</label><caption><p>Total flavonoid content standard calibration curve graph.</p></caption><graphic xlink:href="FSN3-13-e4531-g009" position="anchor" id="jats-graphic-7"/></fig></sec><sec id="fsn34531-sec-0024"><label>3.3</label><title>Antioxidant Results</title><p>The results of the antioxidant reducing assays of pollen extract are given in Table&#x000a0;<xref rid="fsn34531-tbl-0004" ref-type="table">4</xref>. Pollen extract showed lower activity than standard antioxidants in three different antioxidant reducing assays. The results of the antioxidant activity in the Fe<sup>2+</sup> reducing assay was ranked as &#x003b1;&#x02010;tocopherol&#x02009;&#x0003e;&#x02009;trolox&#x02009;&#x0003e;&#x02009;BHA&#x02009;&#x0003e;&#x02009;BHT&#x02009;&#x0003e;&#x02009;pollen. Antioxidant activity results in the Cu<sup>2+</sup> reducing assay was ranked as BHA&#x02009;&#x0003e;&#x02009;&#x003b1;&#x02010;tocopherol&#x02009;&#x0003e;&#x02009;BHT&#x02009;&#x0003e;&#x02009;trolox&#x02009;&#x0003e;&#x02009;pollen. Finally, in the Fe<sup>3+</sup>&#x02010;TPTZ reducing assay, the antioxidant activity results were ranked as BHA&#x02009;&#x0003e;&#x02009;trolox&#x02009;&#x0003e;&#x02009;&#x003b1;&#x02010;tocopherol&#x02009;&#x0003e;&#x02009;BHT&#x02009;&#x0003e;&#x02009;pollen. It was found that pollen showed antioxidant properties, but this property was below standard antioxidants. Table&#x000a0;<xref rid="fsn34531-tbl-0005" ref-type="table">5</xref> lists the outcomes of DPPH<sup>&#x02022;</sup>, ABTS<sup>&#x02022;+</sup>, and DMPD<sup>&#x02022;+</sup> scavenging assays performed on the extract.</p><table-wrap position="float" id="fsn34531-tbl-0004" content-type="TABLE"><label>TABLE 4</label><caption><p>Results of antioxidant reduction assays of pollen extract (&#x003bc;g/mL).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Antioxidants and Sample</th><th align="center" colspan="2" valign="bottom" rowspan="1">Fe<sup>3+</sup> reducing</th><th align="center" colspan="2" valign="bottom" rowspan="1">Cu<sup>2+</sup> reducing</th><th align="center" colspan="2" valign="bottom" rowspan="1">Fe<sup>3+</sup>&#x02010;TPTZ reducing</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">&#x003bb;<sub>700</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sup>2</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">&#x003bb;<sub>450</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sup>2</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">&#x003bb; <sub>593</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sup>2</sup>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">BHA</td><td align="center" valign="top" rowspan="1" colspan="1">2.319&#x02009;&#x000b1;&#x02009;0.040</td><td align="center" valign="top" rowspan="1" colspan="1">0.9814</td><td align="center" valign="top" rowspan="1" colspan="1">2.517&#x02009;&#x000b1;&#x02009;0.106</td><td align="center" valign="top" rowspan="1" colspan="1">0.9682</td><td align="center" valign="top" rowspan="1" colspan="1">2.142&#x02009;&#x000b1;&#x02009;0.012</td><td align="center" valign="top" rowspan="1" colspan="1">0.9933</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BHT</td><td align="center" valign="top" rowspan="1" colspan="1">1.873&#x02009;&#x000b1;&#x02009;0.151</td><td align="center" valign="top" rowspan="1" colspan="1">0.9987</td><td align="center" valign="top" rowspan="1" colspan="1">1.488&#x02009;&#x000b1;&#x02009;0.049</td><td align="center" valign="top" rowspan="1" colspan="1">0.9823</td><td align="center" valign="top" rowspan="1" colspan="1">1.683&#x02009;&#x000b1;&#x02009;0.088</td><td align="center" valign="top" rowspan="1" colspan="1">0.9767</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Trolox</td><td align="center" valign="top" rowspan="1" colspan="1">2.333&#x02009;&#x000b1;&#x02009;0.167</td><td align="center" valign="top" rowspan="1" colspan="1">0.9675</td><td align="center" valign="top" rowspan="1" colspan="1">1.484&#x02009;&#x000b1;&#x02009;0.068</td><td align="center" valign="top" rowspan="1" colspan="1">0.9921</td><td align="center" valign="top" rowspan="1" colspan="1">2.041&#x02009;&#x000b1;&#x02009;0.033</td><td align="center" valign="top" rowspan="1" colspan="1">0.9799</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">&#x003b1;&#x02010;Tocopherol</td><td align="center" valign="top" rowspan="1" colspan="1">2.808&#x02009;&#x000b1;&#x02009;0.272</td><td align="center" valign="top" rowspan="1" colspan="1">0.9863</td><td align="center" valign="top" rowspan="1" colspan="1">1.509&#x02009;&#x000b1;&#x02009;0.110</td><td align="center" valign="top" rowspan="1" colspan="1">0.9897</td><td align="center" valign="top" rowspan="1" colspan="1">1.893&#x02009;&#x000b1;&#x02009;0.084</td><td align="center" valign="top" rowspan="1" colspan="1">0.9983</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pollen</td><td align="center" valign="top" rowspan="1" colspan="1">0.430&#x02009;&#x000b1;&#x02009;0.014</td><td align="center" valign="top" rowspan="1" colspan="1">0.9921</td><td align="center" valign="top" rowspan="1" colspan="1">0.511&#x02009;&#x000b1;&#x02009;0.011</td><td align="center" valign="top" rowspan="1" colspan="1">0.9879</td><td align="center" valign="top" rowspan="1" colspan="1">0.976&#x02009;&#x000b1;&#x02009;0.028</td><td align="center" valign="top" rowspan="1" colspan="1">0.9895</td></tr></tbody></table><table-wrap-foot id="fsn34531-ntgp-0004"><fn id="fsn34531-note-0004"><p>
+<italic toggle="yes">Note:</italic> All values are averages of three parallel observations (<italic toggle="yes">n</italic>&#x02009;=&#x02009;3) and are shown as mean SD (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05 is considered significant). Absorbances were measured at a concentration of 40&#x02009;&#x003bc;g/mL.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="fsn34531-tbl-0005" content-type="TABLE"><label>TABLE 5</label><caption><p>DPPH<sup>&#x02022;</sup>, ABTS<sup>&#x02022;+</sup>, and DMPD<sup>&#x02022;+</sup> scavenging assays results of pollen at 40&#x02009;&#x003bc;g/mL.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Antioxidants and Sample</th><th align="center" colspan="2" valign="bottom" rowspan="1">DPPH<sup>&#x02022;</sup>
+</th><th align="center" colspan="2" valign="bottom" rowspan="1">ABTS<sup>&#x02022;+</sup>
+</th><th align="center" colspan="2" valign="bottom" rowspan="1">DMPD<sup>&#x02022;+</sup>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">IC<sub>50</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sup>2</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">IC<sub>50</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sup>2</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">IC<sub>50</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sup>2</sup>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">BHA</td><td align="center" valign="top" rowspan="1" colspan="1">0.127&#x02009;&#x000b1;&#x02009;0.008</td><td align="center" valign="top" rowspan="1" colspan="1">0.9728</td><td align="center" valign="top" rowspan="1" colspan="1">1.079&#x02009;&#x000b1;&#x02009;0.011</td><td align="center" valign="top" rowspan="1" colspan="1">0.9877</td><td align="center" valign="top" rowspan="1" colspan="1">0.537&#x02009;&#x000b1;&#x02009;0.060</td><td align="center" valign="top" rowspan="1" colspan="1">0.9968</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BHT</td><td align="center" valign="top" rowspan="1" colspan="1">0.492&#x02009;&#x000b1;&#x02009;0.002</td><td align="center" valign="top" rowspan="1" colspan="1">0.9877</td><td align="center" valign="top" rowspan="1" colspan="1">1.409&#x02009;&#x000b1;&#x02009;0.031</td><td align="center" valign="top" rowspan="1" colspan="1">0.9955</td><td align="center" valign="top" rowspan="1" colspan="1">1.781&#x02009;&#x000b1;&#x02009;0.062</td><td align="center" valign="top" rowspan="1" colspan="1">0.9657</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Trolox</td><td align="center" valign="top" rowspan="1" colspan="1">0.030&#x02009;&#x000b1;&#x02009;0.002</td><td align="center" valign="top" rowspan="1" colspan="1">0.9621</td><td align="center" valign="top" rowspan="1" colspan="1">1.472&#x02009;&#x000b1;&#x02009;0.107</td><td align="center" valign="top" rowspan="1" colspan="1">0.9721</td><td align="center" valign="top" rowspan="1" colspan="1">0.129&#x02009;&#x000b1;&#x02009;0.019</td><td align="center" valign="top" rowspan="1" colspan="1">0.9885</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">&#x003b1;&#x02010;Tocopherol</td><td align="center" valign="top" rowspan="1" colspan="1">0.341&#x02009;&#x000b1;&#x02009;0.064</td><td align="center" valign="top" rowspan="1" colspan="1">0.9975</td><td align="center" valign="top" rowspan="1" colspan="1">1.571&#x02009;&#x000b1;&#x02009;0.066</td><td align="center" valign="top" rowspan="1" colspan="1">0.9937</td><td align="center" valign="top" rowspan="1" colspan="1">0.783&#x02009;&#x000b1;&#x02009;0.015</td><td align="center" valign="top" rowspan="1" colspan="1">0.9793</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pollen</td><td align="center" valign="top" rowspan="1" colspan="1">1.06&#x02009;&#x000b1;&#x02009;0.089</td><td align="center" valign="top" rowspan="1" colspan="1">0.9851</td><td align="center" valign="top" rowspan="1" colspan="1">0.933&#x02009;&#x000b1;&#x02009;0.015</td><td align="center" valign="top" rowspan="1" colspan="1">0.9894</td><td align="center" valign="top" rowspan="1" colspan="1">0.598&#x02009;&#x000b1;&#x02009;0.030</td><td align="center" valign="top" rowspan="1" colspan="1">0.9921</td></tr></tbody></table><table-wrap-foot id="fsn34531-ntgp-0005"><fn id="fsn34531-note-0005"><p>
+<italic toggle="yes">Note:</italic> All values are averages of three parallel observations (<italic toggle="yes">n</italic>&#x02009;=&#x02009;3) and are shown as mean SD (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05 is considered significant).</p></fn></table-wrap-foot></table-wrap><p>According to the DPPH radical scavenging assays, the antioxidant properties of pollen were again found to be lower than standard antioxidants. In DPPH<sup>&#x02022;</sup> scavenging assay, the antioxidant activity results were ranked as trolox &#x0003e; BHA&#x02009;&#x0003e;&#x02009;&#x003b1;&#x02010;tocopherol&#x02009;&#x0003e;&#x02009;BHT&#x02009;&#x0003e;&#x02009;pollen. In ABTS<sup>
+<bold>&#x02022;+</bold>
+</sup> scavenging assay, the order was determined as pollen&#x02009;&#x0003e;&#x02009;BHA&#x02009;&#x0003e;&#x02009;BHT&#x02009;&#x0003e;&#x02009;trolox&#x02009;&#x0003e;&#x02009;&#x003b1;&#x02010;tocopherol. In ABTS radical scavenging method, the highest antioxidant activity was observed in pollen. In the DMPD<sup>
+<bold>&#x02022;+</bold>
+</sup> scavenging assay, antioxidant activity was ranked from high to low as trolox&#x02009;&#x0003e;&#x02009;BHA&#x02009;&#x0003e;&#x02009;pollen&#x02009;&#x0003e;&#x02009;BHT&#x02009;&#x0003e;&#x02009;&#x003b1;&#x02010;tocopherol. Radical scavenging assays of pollen showed higher antioxidant properties than reducing assays.</p></sec><sec id="fsn34531-sec-0025"><label>3.4</label><title>Enzyme Inhibition Results</title><p>The antiglaucoma property of pollen was revealed by hCA II enzyme inhibition, the anticholinergic property by AChE enzyme inhibition, and the antidiabetic property by &#x003b1;&#x02010;amylase enzyme inhibition. Enzyme inhibition results are given in Table&#x000a0;<xref rid="fsn34531-tbl-0006" ref-type="table">6</xref>. Enzyme inhibition results showed that pollen strongly inhibited the enzymes investigated. In three enzyme assays, pollen inhibited more enzymes than the standards. Thus, it was determined that pollen showed strong antidiabetic, antiglaucoma, and anticholinergic properties.</p><table-wrap position="float" id="fsn34531-tbl-0006" content-type="TABLE"><label>TABLE 6</label><caption><p>Inhibition values of pollen sample against hCA II isoenzyme, AChE, and &#x003b1;&#x02010;amylase enzyme (IC<sub>50</sub>: &#x003bc;g/mL).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Sample and Standard</th><th align="center" colspan="2" valign="bottom" rowspan="1">hCA II</th><th align="center" colspan="2" valign="bottom" rowspan="1">AChE</th><th align="center" colspan="2" valign="bottom" rowspan="1">&#x003b1;&#x02010; Amylase</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">IC<sub>50</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">r<sup>2</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">IC<sub>50</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">r<sup>2</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">IC<sub>50</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">r<sup>2</sup>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Pollen</td><td align="center" valign="top" rowspan="1" colspan="1">0.34</td><td align="center" valign="top" rowspan="1" colspan="1">0.9886</td><td align="center" valign="top" rowspan="1" colspan="1">0.01</td><td align="center" valign="top" rowspan="1" colspan="1">0.9972</td><td align="center" valign="top" rowspan="1" colspan="1">0.35</td><td align="center" valign="top" rowspan="1" colspan="1">0.9820</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Acarbose<xref rid="fsn34531-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">4.91</td><td align="center" valign="top" rowspan="1" colspan="1">0.9763</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tacrine<xref rid="fsn34531-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">4.17<xref rid="fsn34531-note-0009" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.9887</td><td align="center" valign="top" rowspan="1" colspan="1">3.05<xref rid="fsn34531-note-0009" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.9653</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Acetazolamide<xref rid="fsn34531-note-0008" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">2.21<xref rid="fsn34531-note-0009" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.9712</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr></tbody></table><table-wrap-foot id="fsn34531-ntgp-0006"><fn id="fsn34531-note-0006"><label>
+<sup>a</sup>
+</label><p>Acarbose was used as a standard inhibitor for the &#x003b1;&#x02010;glycosidase enzyme.</p></fn><fn id="fsn34531-note-0007"><label>
+<sup>b</sup>
+</label><p>Tacrin was used as a standard inhibitor for AChE enzyme.</p></fn><fn id="fsn34531-note-0008"><label>
+<sup>c</sup>
+</label><p>Acetazolamide was employed as a standard inhibitor hCA II isoenzyme.</p></fn><fn id="fsn34531-note-0009"><label>
+<sup>d</sup>
+</label><p>These results is nM.</p></fn></table-wrap-foot></table-wrap><p>Phytochemicals are shown to be the main responsible for biological activities. Among these, especially phenolic compounds, are the leading secondary metabolites. Since bee pollen is of plant origin, its phytochemical content is very important in its biological activities. In the study in which the chemical content and antioxidant properties of bee pollen obtained from the Bayburt province of T&#x000fc;rkiye were determined, 23 phenolic compounds were screened by LC&#x02013;MS/MS, and rutin was detected at the highest concentration. In addition, the total phenolic content of pollen was found to be 173.52&#x02009;mg GA/g, the flavonoid content was 79.21&#x02009;mg QE/g, and the CUPRAC antioxidant result was 85.59&#x02009;mg trolox/g (Gercek, Celik, and Bayram&#x000a0;<xref rid="fsn34531-bib-0013" ref-type="bibr">2021</xref>). The total phenolic and flavonoid content of Bayburt pollen was higher than that of Bing&#x000f6;l pollen. Polyphenolics investigated as common in Bayburt and Bing&#x000f6;l pollen are gallic acid, protocatechuic acid, caffeic acid, syringic acid, chlorogenic acid, catechin, sinapic acid, p&#x02010;coumaric acid, naringenin, ferulic acid, luteolin, quercetin, and kaempferol. Chlorogenic acid, sinapic acid, and naringenin were not detected in Bayburt pollen. Although gallic acid, protocatechuic acid, caffeic acid, syringic acid, salicylic acid, catechin, <italic toggle="yes">p</italic>&#x02010;coumaric acid, and ferulic acid were not detected in Bing&#x000f6;l pollen, these compounds were detected in Bayburt pollen. These two studies once again showed the different effects of different geographies and flora on the chemical content and biological activities of bee products.</p><p>Total phenolic content was found to be different in different studies. It was found in the range of 44.07&#x02013;124.2&#x02009;mg GAE/g in Anzer pollen in T&#x000fc;rkiye (Kalayc&#x00131;o&#x0011f;lu et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0028" ref-type="bibr">2017</xref>), 41.5&#x02013;213.2&#x02009;mg GAE/g in Brazilian pollen (Freire et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0024" ref-type="bibr">2012</xref>), and 13.53&#x02013;24.75&#x02009;mg GAE/g in Italian pollen (Domenici et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0008" ref-type="bibr">2015</xref>). Total flavonoid content was also found to be different in various geographies. In a study conducted in T&#x000fc;rkiye, the total phenolic content, antioxidant properties, and 43 phenolic components of honeybee pollen were investigated. Total phenolic content was found to be between 4.5 and 14.4&#x02009;mg GAE/g. Antioxidant properties ranged between 94.9 and 233.5&#x02009;&#x003bc;mol&#x02009;T/g in the ABTS assay and between 25.86 and 70.81&#x02009;&#x003bc;mol&#x02009;T/g in the DPPH assay. Among the phenolic compounds, rutin, luteolin, kaempferol, genistin, and isorhamnetin were found the most. 29 of 43 phenolic compounds were detected (&#x000c7;obano&#x0011f;lu&#x000a0;<xref rid="fsn34531-bib-0006" ref-type="bibr">2024</xref>). Chlorogenic acid, rutin, quercetin, naringenin, luteolin, kaempferol, apigenin, and chrysin were found in common with Bing&#x000f6;l pollen. In different studies, honeybee pollen contained luteolin (Karkar, &#x0015e;ahin, and G&#x000fc;ne&#x0015f;&#x000a0;<xref rid="fsn34531-bib-0031" ref-type="bibr">2021</xref>; Oroian, Dranca, and Ursachi&#x000a0;<xref rid="fsn34531-bib-0040" ref-type="bibr">2022</xref>), apigenin (Laaroussi et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0034" ref-type="bibr">2020</xref>), naringenin, ferulic acid, caffeic acid, vanillic acid (Mohdaly et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0038" ref-type="bibr">2015</xref>), p&#x02010;coumaric acid (Sun et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0046" ref-type="bibr">2017</xref>), rosmarinic acid (Kahraman et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0027" ref-type="bibr">2022</xref>), and gallic acid (Ada&#x00161;kevi&#x0010d;i&#x0016b;t&#x00117; et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0001" ref-type="bibr">2022</xref>) were determined. The total phenolic content of Bing&#x000f6;l pollen was found to be much higher than the pollen in the study. In both studies, it was determined that pollen showed antioxidant properties.</p><p>In a different study, the total phenolic content of pollen was found to be 22.98&#x02009;mg GAE/g, and the total flavonoid content was 33.09&#x02009;mg RE/g. In addition, 32 different metabolites were detected in total. Among these, quercitrin, kaempferol and naringenin are flavonoid metabolites. The antioxidant properties of pollen were determined by ABTS, DPPH, and FRAP assays. The DPPH result IC<sub>50</sub> value was 1.17&#x02009;mg/mL, the ABTS result IC<sub>50</sub> value was 0.71&#x02009;mg/mL, and the FRAP result was 113.5&#x02009;&#x003bc;mol TE/g. In addition, it was determined that the secondary metabolite and antioxidant properties of fermented pollen were higher than those of normal pollen in this study. (Zhang et&#x000a0;al.&#x000a0;<xref rid="fsn34531-bib-0054" ref-type="bibr">2023</xref>). Since the pollen contents and biological activities of different geographies are different, it is necessary to study the unstudied places and bring the results to the scientific world.</p><p>In this study, the antioxidant properties of a pollen sample from Bing&#x000f6;l were determined by eight different assays. In the literature, there is almost no such comprehensive determination of the antioxidant properties of pollen. In addition, since the hCA II, AChE, and &#x003b1;&#x02010;amylase enzyme inhibition properties of Bing&#x000f6;l pollen were not reported in the literature, the antiglaucoma, antidiabetic, and anticholinergic potential of this pollen was brought to the literature for the first time. The determination of the phytochemical content of pollen by LC&#x02013;MS/MS, one of the state&#x02010;of&#x02010;the&#x02010;art techniques, and analysis by a validated method including 53 different components make this study significant. 15 different significant bioactive phytochemicals were identified. Some of them are quinic acid, rutin, hesperidin, quercetin, acacetin, chrysin, apigenin, amentoflavone, and luteolin. Thus, the comprehensive chemical content and antioxidant, antiglaucoma, antidiabetic, and anticholinergic properties of Bing&#x000f6;l pollen were determined for the first time.</p></sec></sec><sec sec-type="conclusions" id="fsn34531-sec-0026"><label>4</label><title>Conclusions</title><p>Pollen is a significant natural food source used by humans in their diet. Its high nutrient content has made it a reason for preference. For this reason, the chemical and phytochemical content, antioxidant properties, and enzyme inhibition potentials of pollen are being investigated. In addition, the chemical content, and biological activities of pollen from different geography and flora are different. For this reason, pollen from different geographies is the subject of research. In this study, it was determined that the phytochemical content of honeybee pollen from Bing&#x000f6;l province was moderate, and its antioxidant properties were generally lower than standard antioxidants. In addition, it was determined that it inhibits hCA II, AChE, and &#x003b1;&#x02010;amylase enzymes, which are important metabolic enzymes, and therefore shows antiglaucoma, anticholinergic, and antidiabetic properties. Thus, it is predicted that glaucoma, Alzheimer's, and diabetes patients will benefit from consuming Bing&#x000f6;l bee pollen if they do not have any allergies.</p></sec><sec id="fsn34531-sec-0030"><title>Author Contributions</title><p>
+<bold>Ebubekir &#x00130;zol:</bold> formal analysis (equal), investigation (equal), methodology (equal), resources (equal), writing &#x02013; original draft (equal), writing &#x02013; review and editing (equal). <bold>M&#x000fc;nire Turhan:</bold> formal analysis (equal), investigation (equal), methodology (equal). <bold>Mustafa Abdullah Y&#x00131;lmaz:</bold> methodology (equal), software (equal), validation (equal). <bold>C&#x000fc;neyt &#x000c7;a&#x0011f;layan:</bold> investigation (equal), methodology (equal), writing &#x02013; original draft (equal). <bold>&#x00130;lhami G&#x000fc;l&#x000e7;in:</bold> methodology (equal), writing &#x02013; original draft (equal), writing &#x02013; review and editing (equal).</p></sec><sec sec-type="COI-statement" id="fsn34531-sec-0027"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><sec sec-type="data-availability" id="fsn34531-sec-0029"><title>Data Availability Statement</title><p>The document contains the necessary data.</p></sec><ref-list content-type="cited-references" id="fsn34531-bibl-0001"><title>References</title><ref id="fsn34531-bib-0001"><mixed-citation publication-type="journal" id="fsn34531-cit-0001">
+<string-name>
+<surname>Ada&#x00161;kevi&#x0010d;i&#x0016b;t&#x00117;</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Ka&#x00161;konien&#x00117;</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Bar&#x0010d;auskait&#x00117;</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Ka&#x00161;konas</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Maru&#x00161;ka</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>The Impact of Fermentation on Bee Pollen Polyphenolic Compounds Composition</article-title>.&#x0201d; <source>Antioxidants</source>
+<volume>11</volume>, no. <issue>4</issue>: <fpage>645</fpage>. <pub-id pub-id-type="doi">10.3390/ANTIOX11040645/S1</pub-id>.<pub-id pub-id-type="pmid">35453330</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0002"><mixed-citation publication-type="journal" id="fsn34531-cit-0002">
+<string-name>
+<surname>Ak</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>G&#x000fc;l&#x000e7;in</surname>
+</string-name>. <year>2008</year>. &#x0201c;<article-title>Antioxidant and Radical Scavenging Properties of Curcumin</article-title>.&#x0201d; <source>Chemico&#x02010;Biological Interactions</source>
+<volume>174</volume>, no. <issue>1</issue>: <fpage>27</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1016/j.cbi.2008.05.003</pub-id>.<pub-id pub-id-type="pmid">18547552</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0003"><mixed-citation publication-type="journal" id="fsn34531-cit-0003">
+<string-name>
+<surname>Apak</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>G&#x000fc;&#x000e7;l&#x000fc;</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>&#x000d6;zy&#x000fc;rek</surname>
+</string-name>, and <string-name>
+<given-names>S. E.</given-names>
+<surname>&#x000c7;elik</surname>
+</string-name>. <year>2008</year>. &#x0201c;<article-title>Mechanism of Antioxidant Capacity Assays and the CUPRAC (Cupric Ion Reducing Antioxidant Capacity) Assay</article-title>.&#x0201d; <source>Microchimica Acta</source>
+<volume>160</volume>: <fpage>413</fpage>&#x02013;<lpage>419</lpage>. I. <pub-id pub-id-type="doi">10.1007/s00604-007-0777-0</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0004"><mixed-citation publication-type="journal" id="fsn34531-cit-0004">
+<string-name>
+<surname>Aziza</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Khaydarov</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zafar</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Chromatographic Authentication of Botanical Origin: Herbaceous Pollen Profiling With HPLC, HPTLC and GC&#x02013;MS Analysis</article-title>.&#x0201d; <source>Biomedical Chromatography</source>
+<volume>38</volume>: <elocation-id>e5852</elocation-id>. <pub-id pub-id-type="doi">10.1002/bmc.5852</pub-id>.<pub-id pub-id-type="pmid">38382499</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0005"><mixed-citation publication-type="journal" id="fsn34531-cit-0005">
+<string-name>
+<surname>Blois</surname>, <given-names>M. S.</given-names>
+</string-name>
+<year>1958</year>. &#x0201c;<article-title>Antioxidant Determinations by the Use of a Stable Free Radical</article-title>.&#x0201d; <source>Nature</source>
+<volume>181</volume>, no. <issue>4617</issue>: <fpage>1199</fpage>&#x02013;<lpage>1200</lpage>. <pub-id pub-id-type="doi">10.1038/1811199a0</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0006"><mixed-citation publication-type="journal" id="fsn34531-cit-0006">
+<string-name>
+<surname>&#x000c7;obano&#x0011f;lu</surname>, <given-names>D. N.</given-names>
+</string-name>
+<year>2024</year>. &#x0201c;<article-title>Assessing Monofloral Bee Pollens From T&#x000fc;rkiye: Palynological Verification, Phenolic Profile, and Antioxidant Activity</article-title>.&#x0201d; <source>Journal of Food Science</source>
+<volume>89</volume>: <fpage>1711</fpage>&#x02013;<lpage>1726</lpage>. <pub-id pub-id-type="doi">10.1111/1750-3841.16928</pub-id>.<pub-id pub-id-type="pmid">38235995</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0007"><mixed-citation publication-type="journal" id="fsn34531-cit-0007">
+<string-name>
+<surname>Denisow</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Denisow&#x02010;Pietrzyk</surname>
+</string-name>. <year>2016</year>. &#x0201c;<article-title>Biological and Therapeutic Properties of Bee Pollen: A Review</article-title>.&#x0201d; <source>Journal of the Science of Food and Agriculture</source>
+<volume>96</volume>, no. <issue>13</issue>: <fpage>4303</fpage>&#x02013;<lpage>4309</lpage>. <pub-id pub-id-type="doi">10.1002/jsfa.7729</pub-id>.<pub-id pub-id-type="pmid">27013064</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0008"><mixed-citation publication-type="journal" id="fsn34531-cit-0008">
+<string-name>
+<surname>Domenici</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gabriele</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Parri</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>. &#x0201c;<article-title>Phytochemical Composition and Antioxidant Activity of Tuscan Bee Pollen of Different Botanic Origins</article-title>.&#x0201d; <source>Italian Journal of Food Science</source>
+<volume>27</volume>, no. <issue>2</issue>: <fpage>120</fpage>&#x02013;<lpage>131</lpage>. <pub-id pub-id-type="doi">10.14674/1120-1770/ijfs.v191</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0009"><mixed-citation publication-type="journal" id="fsn34531-cit-0009">
+<string-name>
+<surname>Dos Santos</surname>, <given-names>N. C. L.</given-names>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Malta</surname>
+</string-name>, <string-name>
+<given-names>R. R.</given-names>
+<surname>Franco</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Antioxidant and Anti&#x02010;Alzheimer's Potential of Tetragonisca Angustula (Jata&#x000ed;) Stingless Bee Pollen</article-title>.&#x0201d; <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue>: <fpage>308</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-023-51091-3</pub-id>.<pub-id pub-id-type="pmid">38172290</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0010"><mixed-citation publication-type="journal" id="fsn34531-cit-0010">
+<string-name>
+<surname>Ellman</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<given-names>K. D.</given-names>
+<surname>Courtney</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Andres</surname>
+<suffix>Jr.</suffix>
+</string-name>, and <string-name>
+<given-names>R. M.</given-names>
+<surname>Featherstone</surname>
+</string-name>. <year>1961</year>. &#x0201c;<article-title>A New and Rapid Colorimetric Determination of Acetylcholinesterase Activity</article-title>.&#x0201d; <source>Biochemical Pharmacology</source>
+<volume>7</volume>, no. <issue>2</issue>: <fpage>88</fpage>&#x02013;<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/0006-2952(61)90145-9</pub-id>.<pub-id pub-id-type="pmid">13726518</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0011"><mixed-citation publication-type="journal" id="fsn34531-cit-0011">
+<string-name>
+<surname>El&#x02010;Seedi</surname>, <given-names>H. R.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Eid</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Abd El&#x02010;Wahed</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Honey Bee Products: Preclinical and Clinical Studies of Their Anti&#x02010;Inflammatory and Immunomodulatory Properties</article-title>.&#x0201d; <source>Frontiers in Nutrition</source>
+<volume>8</volume>: <elocation-id>761267</elocation-id>. <pub-id pub-id-type="doi">10.3389/fnut.2021.761267</pub-id>.<pub-id pub-id-type="pmid">35047540</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0012"><mixed-citation publication-type="journal" id="fsn34531-cit-0012">
+<string-name>
+<surname>Fogliano</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Verde</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Randazzo</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Ritieni</surname>
+</string-name>. <year>1999</year>. &#x0201c;<article-title>Method for Measuring Antioxidant Activity and Its Application to Monitoring the Antioxidant Capacity of Wines</article-title>.&#x0201d; <source>Journal of Agricultural and Food Chemistry</source>
+<volume>47</volume>, no. <issue>3</issue>: <fpage>1035</fpage>&#x02013;<lpage>1040</lpage>. <pub-id pub-id-type="doi">10.1021/jf980496s</pub-id>.<pub-id pub-id-type="pmid">10552412</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0013"><mixed-citation publication-type="journal" id="fsn34531-cit-0013">
+<string-name>
+<surname>Gercek</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Celik</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Bayram</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Screening of Plant Pollen Sources, Polyphenolic Compounds, Fatty Acids and Antioxidant/Antimicrobial Activity From Bee Pollen</article-title>.&#x0201d; <source>Molecules</source>
+<volume>27</volume>, no. <issue>1</issue>: <elocation-id>117</elocation-id>. <pub-id pub-id-type="doi">10.3390/molecules27010117</pub-id>.<pub-id pub-id-type="pmid">35011349</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0014"><mixed-citation publication-type="journal" id="fsn34531-cit-0014">
+<string-name>
+<surname>Glavnik</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bensa</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Vovk</surname>
+</string-name>, and <string-name>
+<given-names>E.</given-names>
+<surname>Guzelmeric</surname>
+</string-name>. <year>2024</year>. &#x0201c;<article-title>High&#x02010;Performance Thin&#x02010;Layer Chromatography&#x02013;Multi&#x02010;Stage Mass Spectrometry Methods for Analyses of Bee Pollen Botanically Originating From Sweet Chestnut (<italic toggle="yes">Castanea sativa</italic> Mill.)</article-title>.&#x0201d; <source>JPC Journal of Planar Chromatography Modern TLC</source>
+<volume>36</volume>: <fpage>471</fpage>&#x02013;<lpage>482</lpage>. <pub-id pub-id-type="doi">10.1007/s00764-024-00283-2</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0015"><mixed-citation publication-type="journal" id="fsn34531-cit-0015">
+<string-name>
+<surname>G&#x000fc;l&#x000e7;in</surname>, <given-names>I.</given-names>
+</string-name>
+<year>2008</year>. &#x0201c;<article-title>Measurement of Antioxidant Ability of Melatonin and Serotonin by the DMPD and CUPRAC Methods as Trolox Equivalent</article-title>.&#x0201d; <source>Journal of Enzyme Inhibition and Medicinal Chemistry</source>
+<volume>23</volume>, no. <issue>6</issue>: <fpage>871</fpage>&#x02013;<lpage>876</lpage>. <pub-id pub-id-type="doi">10.1080/14756360701626223</pub-id>.<pub-id pub-id-type="pmid">18608760</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0016"><mixed-citation publication-type="journal" id="fsn34531-cit-0016">
+<string-name>
+<surname>G&#x000fc;lcin</surname>, <given-names>I.</given-names>
+</string-name>
+<year>2012</year>. &#x0201c;<article-title>Antioxidant Activity of Food Constituents: An Overview</article-title>.&#x0201d; <source>Archives of Toxicology</source>
+<volume>86</volume>: <fpage>345</fpage>&#x02013;<lpage>391</lpage>. <pub-id pub-id-type="doi">10.1007/s00204-011-0774-2</pub-id>.<pub-id pub-id-type="pmid">22102161</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0017"><mixed-citation publication-type="journal" id="fsn34531-cit-0017">
+<string-name>
+<surname>Gulcin</surname>, <given-names>&#x00130;.</given-names>
+</string-name>
+<year>2020</year>. &#x0201c;<article-title>Antioxidants and Antioxidant Methods: An Updated Overview</article-title>.&#x0201d; <source>Archives of Toxicology</source>
+<volume>94</volume>, no. <issue>3</issue>: <fpage>651</fpage>&#x02013;<lpage>715</lpage>. <pub-id pub-id-type="doi">10.1007/s00204-020-02689-3</pub-id>.<pub-id pub-id-type="pmid">32180036</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0018"><mixed-citation publication-type="journal" id="fsn34531-cit-0018">
+<string-name>
+<surname>G&#x000fc;l&#x000e7;in</surname>, <given-names>I.</given-names>
+</string-name>
+<year>2007</year>. &#x0201c;<article-title>Comparison of In&#x000a0;Vitro Antioxidant and Antiradical Activities of L&#x02010;Tyrosine and L&#x02010;Dopa</article-title>.&#x0201d; <source>Amino Acids</source>
+<volume>32</volume>: <fpage>431</fpage>&#x02013;<lpage>438</lpage>. <pub-id pub-id-type="doi">10.1007/s00726-006-0379-x</pub-id>.<pub-id pub-id-type="pmid">16932840</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0019"><mixed-citation publication-type="journal" id="fsn34531-cit-0019">
+<string-name>
+<surname>Gul&#x000e7;in</surname>, <given-names>&#x00130;.</given-names>
+</string-name>, and <string-name>
+<given-names>S. H.</given-names>
+<surname>Alwasel</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Metal Ions, Metal Chelators and Metal Chelating Assay as Antioxidant Method</article-title>.&#x0201d; <source>PRO</source>
+<volume>10</volume>: <elocation-id>132</elocation-id>. <pub-id pub-id-type="doi">10.3390/pr10010132</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0020"><mixed-citation publication-type="journal" id="fsn34531-cit-0020">
+<string-name>
+<surname>Gul&#x000e7;in</surname>, <given-names>&#x00130;.</given-names>
+</string-name>, and <string-name>
+<given-names>S. H.</given-names>
+<surname>Alwasel</surname>
+</string-name>. <year>2023</year>. &#x0201c;<article-title>DPPH Radical Scavenging Assay</article-title>.&#x0201d; <source>PRO</source>
+<volume>11</volume>, no. <issue>8</issue>: <elocation-id>2248</elocation-id>. <pub-id pub-id-type="doi">10.3390/pr11082248</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0021"><mixed-citation publication-type="journal" id="fsn34531-cit-0021">
+<string-name>
+<surname>G&#x000fc;l&#x000e7;in</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Bursal</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>&#x0015e;ehito&#x0011f;lu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bilsel</surname>
+</string-name>, and <string-name>
+<given-names>A. C.</given-names>
+<surname>G&#x000f6;ren</surname>
+</string-name>. <year>2010</year>. &#x0201c;<article-title>Polyphenol Contents and Antioxidant Activity of Lyophilized Aqueous Extract of Propolis From Erzurum, Turkey</article-title>.&#x0201d; <source>Food and Chemical Toxicology</source>
+<volume>48</volume>, no. <issue>8&#x02013;9</issue>: <fpage>2227</fpage>&#x02013;<lpage>2238</lpage>. <pub-id pub-id-type="doi">10.1016/j.fct.2010.05.053</pub-id>.<pub-id pub-id-type="pmid">20685228</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0022"><mixed-citation publication-type="journal" id="fsn34531-cit-0022">
+<string-name>
+<surname>G&#x000fc;l&#x000e7;in</surname>, <given-names>&#x00130;.</given-names>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>G&#x000f6;ren</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Taslimi</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Alwasel</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>K&#x00131;l&#x00131;c</surname>
+</string-name>, and <string-name>
+<given-names>E.</given-names>
+<surname>Bursal</surname>
+</string-name>. <year>2020</year>. &#x0201c;<article-title>Anticholinergic, Antidiabetic and Antioxidant Activities of Anatolian Pennyroyal (<italic toggle="yes">Mentha pulegium</italic>)&#x02010;analysis of Its Polyphenol Contents by LC&#x02010;MS/MS</article-title>.&#x0201d; <source>Biocatalysis and Agricultural Biotechnology</source>
+<volume>23</volume>: <elocation-id>101441</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.bcab.2019.101441</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0024"><mixed-citation publication-type="journal" id="fsn34531-cit-0024">
+<string-name>
+<surname>Freire</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Lins</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>D&#x000f3;rea</surname>
+</string-name>, <string-name>
+<given-names>F. A.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Camara</surname>
+</string-name>, and <string-name>
+<given-names>T. M.</given-names>
+<surname>Silva</surname>
+</string-name>. <year>2012</year>. &#x0201c;<article-title>Palynological Origin, Phenolic Content, and Antioxidant Properties of Honeybee&#x02010;Collected Pollen From Bahia, Brazil</article-title>.&#x0201d; <source>Molecules</source>
+<volume>17</volume>, no. <issue>2</issue>: <fpage>1652</fpage>&#x02013;<lpage>1664</lpage>.<pub-id pub-id-type="pmid">22314384</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0025"><mixed-citation publication-type="journal" id="fsn34531-cit-0025">
+<string-name>
+<surname>Inci</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Izol</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Yilmaz</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ilkaya</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bing&#x000f6;l</surname>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>G&#x000fc;l&#x000e7;in</surname>
+</string-name>. <year>2023</year>. &#x0201c;<article-title>Comprehensive Phytochemical Content by LC/MS/MS and Anticholinergic, Antiglaucoma, Antiepilepsy, and Antioxidant Activity of Apilarnil (Drone larvae)</article-title>.&#x0201d; <source>Chemistry &#x00026; Biodiversity</source>
+<volume>20</volume>, no. <issue>10</issue>: <elocation-id>e202300654</elocation-id>. <pub-id pub-id-type="doi">10.1002/cbdv.202300654</pub-id>.<pub-id pub-id-type="pmid">37610045</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0026"><mixed-citation publication-type="journal" id="fsn34531-cit-0026">
+<string-name>
+<surname>Izol</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Temel</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Yilmaz</surname>
+</string-name>, et&#x000a0;al. <year>2021</year>. &#x0201c;<article-title>A Detailed Chemical and Biological Investigation of Twelve <italic toggle="yes">Allium</italic> Species From Eastern Anatolia With Chemometric Studies</article-title>.&#x0201d; <source>Chemistry &#x00026; Biodiversity</source>
+<volume>18</volume>, no. <issue>1</issue>: <elocation-id>e2000560</elocation-id>. <pub-id pub-id-type="doi">10.1002/cbdv.202000560</pub-id>.<pub-id pub-id-type="pmid">33188649</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0027"><mixed-citation publication-type="journal" id="fsn34531-cit-0027">
+<string-name>
+<surname>Kahraman</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tutun</surname>
+</string-name>, <string-name>
+<given-names>M. M.</given-names>
+<surname>Kaya</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Ethanolic Extract of Turkish Bee Pollen and Propolis: Phenolic Composition, Antiradical, Antiproliferative and Antibacterial Activities</article-title>.&#x0201d; <source>Biotechnology and Biotechnological Equipment</source>
+<volume>36</volume>, no. <issue>1</issue>: <fpage>44</fpage>&#x02013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1080/13102818.2022.2045217</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0028"><mixed-citation publication-type="journal" id="fsn34531-cit-0028">
+<string-name>
+<surname>Kalayc&#x00131;o&#x0011f;lu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kaygusuz</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>D&#x000f6;ker</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kolayl&#x00131;</surname>
+</string-name>, and <string-name>
+<given-names>F. B.</given-names>
+<surname>Erim</surname>
+</string-name>. <year>2017</year>. &#x0201c;<article-title>Characterization of Turkish Honeybee Pollens by Principal Component Analysis Based on Their Individual Organic Acids, Sugars, Minerals, and Antioxidant Activities</article-title>.&#x0201d; <source>LWT</source>
+<volume>84</volume>: <fpage>402</fpage>&#x02013;<lpage>408</lpage>. <pub-id pub-id-type="doi">10.1016/j.lwt.2017.06.003</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0029"><mixed-citation publication-type="journal" id="fsn34531-cit-0029">
+<string-name>
+<surname>Karagecili</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>&#x00130;zol</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Kirecci</surname>
+</string-name>, and <string-name>
+<given-names>&#x00130;.</given-names>
+<surname>Gulcin</surname>
+</string-name>. <year>2023</year>. &#x0201c;<article-title>Determination of Antioxidant, Anti&#x02010;Alzheimer, Antidiabetic, Antiglaucoma and Antimicrobial Effects of Zivzik Pomegranate (<italic toggle="yes">Punica granatum</italic>)&#x02010;a Chemical Profiling by LC&#x02010;MS/MS</article-title>.&#x0201d; <source>Lifestyles</source>
+<volume>13</volume>, no. <issue>3</issue>: <elocation-id>735</elocation-id>. <pub-id pub-id-type="doi">10.3390/life13030735</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0030"><mixed-citation publication-type="journal" id="fsn34531-cit-0030">
+<string-name>
+<surname>Karage&#x000e7;ili</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>&#x00130;zol</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Kire&#x000e7;ci</surname>
+</string-name>, and <string-name>
+<given-names>&#x00130;.</given-names>
+<surname>G&#x000fc;l&#x000e7;in</surname>
+</string-name>. <year>2023</year>. &#x0201c;<article-title>Antioxidant, Antidiabetic, Antiglaucoma, and Anticholinergic Effects of Tayfi Grape (<italic toggle="yes">Vitis vinifera</italic>): A Phytochemical Screening by LC&#x02010;MS/MS Analysis</article-title>.&#x0201d; <source>Open Chemistry</source>
+<volume>21</volume>, no. <issue>1</issue>: <elocation-id>20230120</elocation-id>. <pub-id pub-id-type="doi">10.1515/chem-2023-0120</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0031"><mixed-citation publication-type="journal" id="fsn34531-cit-0031">
+<string-name>
+<surname>Karkar</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>&#x0015e;ahin</surname>
+</string-name>, and <string-name>
+<given-names>M. E.</given-names>
+<surname>G&#x000fc;ne&#x0015f;</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Evaluation of Antioxidant Properties and Determination of Phenolic and Carotenoid Profiles of Chestnut Bee Pollen Collected From Turkey</article-title>.&#x0201d; <source>Journal of Apicultural Research</source>
+<volume>60</volume>, no. <issue>5</issue>: <fpage>765</fpage>&#x02013;<lpage>774</lpage>. <pub-id pub-id-type="doi">10.1080/00218839.2020.1844462</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0032"><mixed-citation publication-type="journal" id="fsn34531-cit-0032">
+<string-name>
+<surname>Kiziltas</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Goren</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Alwasel</surname>
+</string-name>, and <string-name>
+<given-names>&#x00130;.</given-names>
+<surname>Gulcin</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Sahlep (<italic toggle="yes">Dactylorhiza osmanica</italic>): Phytochemical Analyses by LC&#x02010;HRMS, Molecular Docking, Antioxidant Activity, and Enzyme Inhibition Profiles</article-title>.&#x0201d; <source>Molecules</source>
+<volume>27</volume>, no. <issue>20</issue>: <elocation-id>6907</elocation-id>. <pub-id pub-id-type="doi">10.3390/molecules27206907</pub-id>.<pub-id pub-id-type="pmid">36296499</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0033"><mixed-citation publication-type="journal" id="fsn34531-cit-0033">
+<string-name>
+<surname>Kolayli</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Birinci</surname>
+</string-name>, <string-name>
+<given-names>E. D.</given-names>
+<surname>Kanbur</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Ucurum</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kara</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Takma</surname>
+</string-name>. <year>2024</year>. &#x0201c;<article-title>Comparison of Biochemical and Nutritional Properties of Bee Pollen Samples According to Botanical Differences</article-title>.&#x0201d; <source>European Food Research and Technology</source>
+<volume>250</volume>, no. <issue>3</issue>: <fpage>799</fpage>&#x02013;<lpage>810</lpage>. <pub-id pub-id-type="doi">10.1007/s00217-023-04428-1</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0034"><mixed-citation publication-type="journal" id="fsn34531-cit-0034">
+<string-name>
+<surname>Laaroussi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bakour</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ousaaid</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>Effect of Antioxidant&#x02010;Rich Propolis and Bee Pollen Extracts Against D&#x02010;Glucose Induced Type 2 Diabetes in Rats</article-title>.&#x0201d; <source>Food Research International</source>
+<volume>138</volume>: <fpage>963</fpage>&#x02013;<lpage>9969</lpage>. <pub-id pub-id-type="doi">10.1016/j.foodres.2020.109802</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0035"><mixed-citation publication-type="journal" id="fsn34531-cit-0035">
+<string-name>
+<surname>Liang</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>F. L.</given-names>
+<surname>Bu</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>The Potential Effects and Use of Chinese Herbal Medicine Pine Pollen (<italic toggle="yes">Pinus pollen</italic>): A Bibliometric Analysis of Pharmacological and Clinical Studies</article-title>.&#x0201d; <source>World Journal of Traditional Chinese Medicine</source>
+<volume>6</volume>, no. <issue>2</issue>: <fpage>163</fpage>&#x02013;<lpage>170</lpage>. <pub-id pub-id-type="doi">10.4103/wjtcm.wjtcm_4_20</pub-id>.<pub-id pub-id-type="pmid">34327226</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0036"><mixed-citation publication-type="journal" id="fsn34531-cit-0036">
+<string-name>
+<surname>Lima</surname>, <given-names>W. G.</given-names>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Brito</surname>
+</string-name>, and <string-name>
+<given-names>W. S.</given-names>
+<surname>da Cruz Nizer</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Bee Products as a Source of Promising Therapeutic and Chemoprophylaxis Strategies Against COVID&#x02010;19 (SARS&#x02010;CoV&#x02010;2)</article-title>.&#x0201d; <source>Phytotherapy Research</source>
+<volume>35</volume>, no. <issue>2</issue>: <fpage>743</fpage>&#x02013;<lpage>750</lpage>. <pub-id pub-id-type="doi">10.1002/ptr.6872</pub-id>.<pub-id pub-id-type="pmid">32945590</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0038"><mixed-citation publication-type="journal" id="fsn34531-cit-0038">
+<string-name>
+<surname>Mohdaly</surname>, <given-names>A. A. A.</given-names>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Mahmoud</surname>
+</string-name>, <string-name>
+<given-names>M. H. H.</given-names>
+<surname>Roby</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Smetanska</surname>
+</string-name>, and <string-name>
+<given-names>M. F.</given-names>
+<surname>Ramadan</surname>
+</string-name>. <year>2015</year>. &#x0201c;<article-title>Phenolic Extract From Propolis and Bee Pollen: Composition, Antioxidant and Antibacterial Activities</article-title>.&#x0201d; <source>Journal of Food Biochemistry</source>
+<volume>39</volume>, no. <issue>5</issue>: <fpage>538</fpage>&#x02013;<lpage>547</lpage>. <pub-id pub-id-type="doi">10.1111/JFBC.12160</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0039"><mixed-citation publication-type="journal" id="fsn34531-cit-0039">
+<string-name>
+<surname>M&#x000fc;nstedt</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Voss</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Kullmer</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Schneider</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>H&#x000fc;bner</surname>
+</string-name>. <year>2015</year>. &#x0201c;<article-title>Bee Pollen and Honey for the Alleviation of Hot Flushes and Other Menopausal Symptoms in Breast Cancer Patients</article-title>.&#x0201d; <source>Molecular and Clinical Oncology</source>
+<volume>3</volume>, no. <issue>4</issue>: <fpage>869</fpage>&#x02013;<lpage>874</lpage>. <pub-id pub-id-type="doi">10.3892/mco.2015.559</pub-id>.<pub-id pub-id-type="pmid">26171198</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0040"><mixed-citation publication-type="journal" id="fsn34531-cit-0040">
+<string-name>
+<surname>Oroian</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Dranca</surname>
+</string-name>, and <string-name>
+<given-names>F.</given-names>
+<surname>Ursachi</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Characterization of Romanian Bee Pollen&#x02010;An Important Nutritional Source</article-title>.&#x0201d; <source>Food</source>
+<volume>11</volume>, no. <issue>17</issue>: <elocation-id>2633</elocation-id>. <pub-id pub-id-type="doi">10.3390/foods11172633</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0041"><mixed-citation publication-type="journal" id="fsn34531-cit-0041">
+<string-name>
+<surname>Oyaizu</surname>, <given-names>M.</given-names>
+</string-name>
+<year>1986</year>. &#x0201c;<article-title>Antioxidative Activities of Browning Reaction Prepared From Glucosamine</article-title>.&#x0201d; <source>Japanese Journal of Nutrition</source>
+<volume>44</volume>: <fpage>307</fpage>&#x02013;<lpage>315</lpage>. <pub-id pub-id-type="doi">10.5264/eiyogakuzashi.44.307</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0042"><mixed-citation publication-type="journal" id="fsn34531-cit-0042">
+<string-name>
+<surname>&#x000d6;zaslan</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Sa&#x0011f;lamta&#x0015f;</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Demir</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gen&#x000e7;</surname>
+</string-name>, <string-name>
+<given-names>&#x00130;.</given-names>
+<surname>Sara&#x000e7;o&#x0011f;lu</surname>
+</string-name>, and <string-name>
+<given-names>&#x00130;.</given-names>
+<surname>G&#x000fc;l&#x000e7;in</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Isolation of Some Phenolic Compounds From <italic toggle="yes">Plantago subulata</italic> L. and Determination of Their Antidiabetic, Anticholinesterase, Antiepileptic and Antioxidant Activity</article-title>.&#x0201d; <source>Chemistry &#x00026; Biodiversity</source>
+<volume>19</volume>, no. <issue>8</issue>: <elocation-id>e202200280</elocation-id>. <pub-id pub-id-type="doi">10.1002/cbdv.202200280</pub-id>.<pub-id pub-id-type="pmid">35796520</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0043"><mixed-citation publication-type="journal" id="fsn34531-cit-0043">
+<string-name>
+<surname>Re</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Pellegrini</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Proteggente</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pannala</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Rice&#x02010;Evans</surname>
+</string-name>. <year>1999</year>. &#x0201c;<article-title>Antioxidant Activity Applying an Improved ABTS Radical Cation Decolorization Assay</article-title>.&#x0201d; <source>Free Radical Biology and Medicine</source>
+<volume>26</volume>, no. <issue>9&#x02013;10</issue>: <fpage>1231</fpage>&#x02013;<lpage>1237</lpage>. <pub-id pub-id-type="doi">10.1016/S0891-5849(98)00315-3</pub-id>.<pub-id pub-id-type="pmid">10381194</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0044"><mixed-citation publication-type="journal" id="fsn34531-cit-0044">
+<string-name>
+<surname>Saral</surname>, <given-names>&#x000d6;.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>&#x0015e;ahin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Saral</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Bee Pollen Increases Hippocampal Brain&#x02010;Derived Neurotrophic Factor and Suppresses Neuroinflammation in Adult Rats With Chronic Immobilization Stress</article-title>.&#x0201d; <source>Neuroscience Letters</source>
+<volume>766</volume>: <elocation-id>136342</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.neulet.2021.136342</pub-id>.<pub-id pub-id-type="pmid">34774703</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0045"><mixed-citation publication-type="journal" id="fsn34531-cit-0045">
+<string-name>
+<surname>Silveira</surname>, <given-names>Z. D. S.</given-names>
+</string-name>, <string-name>
+<given-names>N. S. M.</given-names>
+<surname>Silva Mac&#x000ea;do</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>de Menezes Dantas</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Chemical Profile and Biological Potential of Scaptotrigona Bee Products (Hymenoptera, Apidae, Meliponini): An Review</article-title>.&#x0201d; <source>Chemistry &#x00026; Biodiversity</source>
+<volume>e202301962</volume>: <elocation-id>e202301962</elocation-id>. <pub-id pub-id-type="doi">10.1002/cbdv.202301962</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0046"><mixed-citation publication-type="journal" id="fsn34531-cit-0046">
+<string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Zhuang</surname>
+</string-name>. <year>2017</year>. &#x0201c;<article-title>Antioxidant and Anti&#x02010;Tyrosinase Activities of Phenolic Extracts From Rape Bee Pollen and Inhibitory Melanogenesis by cAMP/MITF/TYR Pathway in B16 Mouse Melanoma Cells</article-title>.&#x0201d; <source>Frontiers in Pharmacology</source>
+<volume>8</volume>: <elocation-id>104</elocation-id>. <pub-id pub-id-type="doi">10.3389/fphar.2017.00104</pub-id>.<pub-id pub-id-type="pmid">28337140</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0047"><mixed-citation publication-type="journal" id="fsn34531-cit-0047">
+<string-name>
+<surname>Taha</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Ismail</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Sami</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Bee Pollen: An Antioxidant and Antimicrobial Agent for Beef Sausage</article-title>.&#x0201d; <source>Journal of Biobased Materials and Bioenergy</source>
+<volume>18</volume>, no. <issue>1</issue>: <fpage>31</fpage>&#x02013;<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1166/jbmb.2024.2339</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0048"><mixed-citation publication-type="journal" id="fsn34531-cit-0048">
+<string-name>
+<surname>Taslimi</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<given-names>&#x00130;.</given-names>
+<surname>Gul&#x000e7;in</surname>
+</string-name>. <year>2017</year>. &#x0201c;<article-title>Antidiabetic Potential: In&#x000a0;Vitro Inhibition Effects of Some Natural Phenolic Compounds on &#x003b1;&#x02010;Glycosidase and &#x003b1;&#x02010;Amylase Enzymes</article-title>.&#x0201d; <source>Journal of Biochemical and Molecular Toxicology</source>
+<volume>31</volume>, no. <issue>10</issue>: <elocation-id>e21956</elocation-id>. <pub-id pub-id-type="doi">10.1002/jbt.21956</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0049"><mixed-citation publication-type="journal" id="fsn34531-cit-0049">
+<string-name>
+<surname>Tokal&#x00131;</surname>, <given-names>F. S.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Taslimi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Tuzun</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Karaku&#x0015f;</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sadeghian</surname>
+</string-name>, and <string-name>
+<given-names>&#x00130;.</given-names>
+<surname>Gul&#x000e7;in</surname>
+</string-name>. <year>2023</year>. &#x0201c;<article-title>Novel Quinazolinone Derivatives: Potential Synthetic Analogs for the Treatment of Glaucoma, Alzheimer's Disease and Diabetes Mellitus</article-title>.&#x0201d; <source>Chemistry &#x00026; Biodiversity</source>
+<volume>20</volume>, no. <issue>10</issue>: <elocation-id>e202301134</elocation-id>. <pub-id pub-id-type="doi">10.1002/cbdv.202301134</pub-id>.<pub-id pub-id-type="pmid">37695993</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0050"><mixed-citation publication-type="journal" id="fsn34531-cit-0050">
+<string-name>
+<surname>Yilmaz</surname>, <given-names>M. A.</given-names>
+</string-name>
+<year>2020</year>. &#x0201c;<article-title>Simultaneous Quantitative Screening of 53 Phytochemicals in 33 Species of Medicinal and Aromatic Plants: A Detailed, Robust and Comprehensive LC&#x02013;MS/MS Method Validation</article-title>.&#x0201d; <source>Industrial Crops and Products</source>
+<volume>149</volume>: <elocation-id>112347</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.indcrop.2020.112347</pub-id>.</mixed-citation></ref><ref id="fsn34531-bib-0051"><mixed-citation publication-type="journal" id="fsn34531-cit-0051">
+<string-name>
+<surname>Yilmaz</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Cakir</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Izol</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tarhan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Behcet</surname>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Zengin</surname>
+</string-name>. <year>2023</year>. &#x0201c;<article-title>Detailed Phytochemical Evaluation of a Locally Endemic Species (<italic toggle="yes">Campanula baskilensis</italic>) by LC&#x02010;MS/MS and Its In&#x02010;Depth Antioxidant and Enzyme Inhibitory Activities</article-title>.&#x0201d; <source>Chemistry &#x00026; Biodiversity</source>
+<volume>20</volume>, no. <issue>12</issue>: <elocation-id>e202301182</elocation-id>. <pub-id pub-id-type="doi">10.1002/cbdv.202301182</pub-id>.<pub-id pub-id-type="pmid">37846496</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0052"><mixed-citation publication-type="journal" id="fsn34531-cit-0052">
+<string-name>
+<surname>Xiao</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Storms</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Tsang</surname>
+</string-name>. <year>2006</year>. &#x0201c;<article-title>A Quantitative Starch? Iodine Method for Measuring Alpha&#x02010;Amylase and Glucoamylase Activities</article-title>.&#x0201d; <source>Analytical Biochemistry</source>
+<volume>351</volume>, no. <issue>1</issue>: <fpage>146</fpage>&#x02013;<lpage>148</lpage>. <pub-id pub-id-type="doi">10.1016/j.ab.2006.01.036</pub-id>.<pub-id pub-id-type="pmid">16500607</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0053"><mixed-citation publication-type="journal" id="fsn34531-cit-0053">
+<string-name>
+<surname>Verpoorte</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mehta</surname>
+</string-name>, and <string-name>
+<given-names>J. T.</given-names>
+<surname>Edsall</surname>
+</string-name>. <year>1967</year>. &#x0201c;<article-title>Esterase Activities of Human Carbonic Anhydrases B and C</article-title>.&#x0201d; <source>Journal of Biological Chemistry</source>
+<volume>242</volume>, no. <issue>18</issue>: <fpage>4221</fpage>&#x02013;<lpage>4229</lpage>. <pub-id pub-id-type="doi">10.1016/S0021-9258(18)95800-X</pub-id>.<pub-id pub-id-type="pmid">4964830</pub-id>
+</mixed-citation></ref><ref id="fsn34531-bib-0054"><mixed-citation publication-type="journal" id="fsn34531-cit-0054">
+<string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Antioxidant and Anti&#x02010;Inflammatory Activities of Rape Bee Pollen After Fermentation and Their Correlation With Chemical Components by Ultra&#x02010;Performance Liquid Chromatography&#x02010;Quadrupole Time of Flight Mass Spectrometry&#x02010;Based Untargeted Metabolomics</article-title>.&#x0201d; <source>Food Chemistry</source>
+<volume>409</volume>: <elocation-id>135342</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.foodchem.2022.135342</pub-id>.<pub-id pub-id-type="pmid">36586262</pub-id>
+</mixed-citation></ref></ref-list></back></article>
