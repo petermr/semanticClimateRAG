@@ -208,7 +208,7 @@ def create_vector_database(chunks):
     vector_db = Chroma.from_documents(
         documents=chunks,
         embedding=embeddings,
-        collection_name="scientific_rag_xml",
+        collection_name=SCIENTIFIC_XML_RAG,
         persist_directory="/content/db"
     )
     return vector_db
